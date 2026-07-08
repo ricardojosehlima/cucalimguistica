@@ -1,0 +1,285 @@
+:root {
+  --cuca-red: #e40032;
+  --cuca-red-dark: #a90025;
+  --cuca-red-soft: #ffe8ed;
+  --paper: #fffaf2;
+  --paper-strong: #fff3e2;
+  --ink: #202020;
+  --muted: #5c514f;
+  --shadow: 0 12px 30px rgba(30, 10, 10, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuca-page {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 24px 20px 42px;
+}
+
+.top-nav,
+.bottom-nav {
+  display: flex;
+  gap: 14px;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.7vw, 18px);
+}
+
+.top-nav {
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
+.top-nav a,
+.bottom-nav a {
+  color: var(--cuca-red-dark);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.top-nav a:hover,
+.top-nav a:focus-visible,
+.bottom-nav a:hover,
+.bottom-nav a:focus-visible {
+  border-bottom-color: var(--cuca-red-dark);
+}
+
+.page-hero {
+  max-width: 900px;
+  margin: 0 auto 28px;
+  text-align: center;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(15px, 3vw, 20px);
+}
+
+.page-hero h1 {
+  margin: 0;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(36px, 8vw, 70px);
+  font-weight: 400;
+  line-height: 1.05;
+}
+
+.subtitle {
+  max-width: 800px;
+  margin: 18px auto 0;
+  color: var(--ink);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(18px, 3.8vw, 27px);
+  line-height: 1.42;
+}
+
+.intro-card {
+  max-width: 900px;
+  margin: 28px auto 0;
+  padding: clamp(22px, 4vw, 34px);
+  border: 2px solid var(--cuca-red);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.36);
+  box-shadow: var(--shadow);
+}
+
+.intro-card h2 {
+  margin: 0 0 16px;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(25px, 4.6vw, 38px);
+  font-weight: 400;
+  text-align: center;
+}
+
+.intro-card p,
+.manifesto-card p,
+.page-footer p {
+  font-size: clamp(17px, 2.2vw, 20px);
+  line-height: 1.62;
+}
+
+.intro-card p {
+  margin: 0 0 16px;
+}
+
+.intro-card p:last-child {
+  margin-bottom: 0;
+}
+
+.manifesto-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin: 32px auto 0;
+}
+
+.manifesto-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 380px;
+  padding: 26px 22px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.42);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.persona-icon {
+  width: 74px;
+  height: 74px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 18px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 999px;
+  background: var(--cuca-red-soft);
+  font-size: 38px;
+}
+
+.manifesto-card h2 {
+  margin: 0 0 6px;
+  color: var(--cuca-red-dark);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(26px, 4vw, 36px);
+  font-weight: 400;
+}
+
+.manifesto-type {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+}
+
+.manifesto-card p:not(.manifesto-type) {
+  margin: 0 0 24px;
+}
+
+.pdf-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: auto;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: var(--cuca-red);
+  color: white;
+  font-family: 'Special Elite', serif;
+  font-size: 17px;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.button:hover,
+.button:focus-visible {
+  background: var(--cuca-red-dark);
+}
+
+.button.secondary {
+  background: transparent;
+  color: var(--cuca-red-dark);
+  border: 2px solid var(--cuca-red);
+}
+
+.button.secondary:hover,
+.button.secondary:focus-visible {
+  background: var(--cuca-red);
+  color: white;
+}
+
+.bottom-nav {
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 44px auto 0;
+  padding-top: 20px;
+  border-top: 1px solid rgba(228, 0, 50, 0.28);
+}
+
+.page-footer {
+  margin: 32px auto 0;
+  text-align: center;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+}
+
+.page-footer p {
+  margin: 6px 0;
+}
+
+@media (max-width: 900px) {
+  .manifesto-grid {
+    grid-template-columns: 1fr;
+    max-width: 700px;
+  }
+
+  .manifesto-card {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .cuca-page {
+    padding: 20px 16px 34px;
+  }
+
+  .top-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .page-hero {
+    margin-bottom: 24px;
+  }
+
+  .intro-card,
+  .manifesto-card {
+    border-radius: 18px;
+  }
+}
+
+@media (max-width: 420px) {
+  .cuca-page {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .intro-card p,
+  .manifesto-card p,
+  .page-footer p {
+    font-size: 17px;
+  }
+
+  .persona-icon {
+    width: 66px;
+    height: 66px;
+    font-size: 34px;
+  }
+
+  .button {
+    width: 100%;
+    max-width: 230px;
+    text-align: center;
+  }
+}

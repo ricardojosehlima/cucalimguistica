@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+:root {
+  --cuca-red: #e40032;
+  --cuca-red-dark: #9d0023;
+  --paper: #fffaf2;
+  --paper-soft: #fff3e3;
+  --ink: #202020;
+  --muted: #585858;
+  --shadow: rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-shell {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 48px;
+}
+
+.top-nav,
+.bottom-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  font-family: 'Special Elite', serif;
+}
+
+.top-nav a,
+.bottom-nav a {
+  color: var(--cuca-red);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding: 4px 0;
+}
+
+.top-nav a:hover,
+.bottom-nav a:hover,
+.top-nav a:focus,
+.bottom-nav a:focus {
+  border-bottom-color: var(--cuca-red);
+}
+
+.page-hero {
+  text-align: center;
+  padding: 28px 16px 34px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #fffaf2 0%, #fff3e3 100%);
+  box-shadow: 0 8px 24px var(--shadow);
+}
+
+.section-kicker {
+  margin: 0 0 8px;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(16px, 2.6vw, 22px);
+  letter-spacing: 0.04em;
+}
+
+h1,
+h2 {
+  font-family: 'Special Elite', serif;
+  font-weight: 700;
+}
+
+h1 {
+  margin: 0;
+  color: var(--cuca-red);
+  font-size: clamp(36px, 8vw, 74px);
+  line-height: 1.05;
+}
+
+.subtitle {
+  max-width: 760px;
+  margin: 18px auto 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(18px, 3.5vw, 26px);
+  line-height: 1.35;
+}
+
+.intro-card,
+.sleep-card,
+.converter-section {
+  margin: 34px auto 0;
+  padding: 24px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 22px;
+  background: var(--paper-soft);
+  box-shadow: 0 6px 18px var(--shadow);
+}
+
+.intro-card h2,
+.sleep-card h2,
+.converter-section h2 {
+  margin: 0 0 14px;
+  color: var(--cuca-red);
+  font-size: clamp(24px, 4.5vw, 38px);
+  line-height: 1.1;
+}
+
+.intro-card p,
+.sleep-card p,
+.converter-header p {
+  margin: 0 0 14px;
+  font-size: clamp(17px, 2.6vw, 20px);
+  line-height: 1.6;
+}
+
+.intro-card p:last-child,
+.sleep-card p:last-child {
+  margin-bottom: 0;
+}
+
+.sleep-card {
+  border-style: dashed;
+}
+
+.primary-action {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 13px 20px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 999px;
+  background: var(--cuca-red);
+  color: white;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(16px, 2.5vw, 19px);
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.primary-action:hover,
+.primary-action:focus {
+  background: var(--cuca-red-dark);
+  border-color: var(--cuca-red-dark);
+}
+
+.converter-section {
+  padding: 0;
+  overflow: hidden;
+}
+
+.converter-header {
+  padding: 24px 24px 10px;
+}
+
+.converter-header p {
+  color: var(--muted);
+}
+
+.iframe-wrap {
+  padding: 0 18px 18px;
+}
+
+.converter-frame {
+  display: block;
+  width: 100%;
+  min-height: 900px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 18px;
+  background: #101219;
+}
+
+.bottom-nav {
+  justify-content: center;
+  margin: 34px 0 0;
+}
+
+.bottom-nav a {
+  padding: 10px 14px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 999px;
+  background: transparent;
+}
+
+.bottom-nav a:hover,
+.bottom-nav a:focus {
+  background: var(--cuca-red);
+  color: white;
+}
+
+.page-footer {
+  margin-top: 34px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(228, 0, 50, 0.35);
+  text-align: center;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.4vw, 17px);
+  line-height: 1.45;
+}
+
+.page-footer p {
+  margin: 0 0 8px;
+}
+
+@media (max-width: 720px) {
+  .page-shell {
+    width: min(100% - 24px, 1120px);
+    padding-top: 20px;
+  }
+
+  .top-nav {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .page-hero {
+    padding: 24px 14px 28px;
+  }
+
+  .intro-card,
+  .sleep-card {
+    padding: 20px;
+  }
+
+  .converter-header {
+    padding: 20px 18px 8px;
+  }
+
+  .iframe-wrap {
+    padding: 0 10px 10px;
+  }
+
+  .converter-frame {
+    min-height: 1000px;
+  }
+
+  .bottom-nav a {
+    width: 100%;
+    text-align: center;
+  }
+}

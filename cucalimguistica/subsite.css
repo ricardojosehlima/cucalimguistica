@@ -1,0 +1,245 @@
+/* Cucalimguística branch landing page */
+
+.cuca-branch-body {
+  background: var(--bg);
+}
+
+.cuca-branch-shell {
+  padding-top: 24px;
+}
+
+.branch-nav {
+  width: min(980px, 100%);
+  margin: 0 auto 24px;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  font-size: clamp(15px, 1.7vw, 18px);
+}
+
+.branch-nav a {
+  color: var(--purple);
+  text-decoration: none;
+  border-bottom: 1.5px solid var(--purple);
+}
+
+.branch-nav a:focus-visible,
+.branch-nav a:hover {
+  color: var(--red);
+  border-bottom-color: var(--red);
+}
+
+.branch-hero {
+  width: min(920px, 100%);
+  margin: 0 auto 34px;
+  text-align: center;
+  font-family: 'Special Elite', 'Courier New', monospace;
+}
+
+.branch-logo {
+  width: min(560px, 100%);
+  height: auto;
+  display: block;
+  margin: 0 auto 22px;
+}
+
+.branch-hero h1 {
+  margin: 0 0 12px;
+  color: var(--purple);
+  font-size: clamp(32px, 6vw, 60px);
+  line-height: 1.05;
+  font-weight: 400;
+}
+
+.branch-hero p {
+  width: min(720px, 100%);
+  margin: 0 auto;
+  color: var(--text);
+  font-size: clamp(18px, 2.5vw, 26px);
+  line-height: 1.45;
+}
+
+.branch-cards {
+  width: min(1020px, 100%);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+  align-items: stretch;
+}
+
+.branch-card {
+  min-height: 330px;
+  padding: 22px 20px 20px;
+  border: 2.5px solid var(--purple);
+  border-radius: 22px;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-soft);
+  color: var(--purple);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 18px;
+  text-align: center;
+}
+
+.branch-card h2 {
+  margin: 0 0 16px;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  font-weight: 400;
+  font-size: clamp(19px, 2vw, 25px);
+  line-height: 1.18;
+  color: var(--purple);
+}
+
+.branch-card p {
+  margin: 0 0 10px;
+  color: var(--text);
+  font-size: clamp(15px, 1.25vw, 18px);
+  line-height: 1.42;
+}
+
+.branch-card p:last-child {
+  margin-bottom: 0;
+}
+
+.branch-button {
+  align-self: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  max-width: 100%;
+  padding: 11px 18px 9px;
+  border-radius: 999px;
+  background: var(--purple);
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  font-size: clamp(14px, 1.25vw, 17px);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.branch-button:focus-visible,
+.branch-button:hover {
+  background: var(--red);
+}
+
+.absurd-sentence {
+  width: min(850px, 100%);
+  margin: 42px auto 0;
+  padding: 0 8px;
+  text-align: center;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  color: var(--purple);
+}
+
+.absurd-sentence p {
+  margin: 0;
+  font-size: clamp(21px, 3.2vw, 34px);
+  line-height: 1.45;
+  animation: absurdPulse 2.4s ease-in-out infinite;
+}
+
+@keyframes absurdPulse {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.56;
+    transform: scale(1.025);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.branch-footer {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 0 0 32px;
+  text-align: center;
+}
+
+.branch-footer p {
+  margin: 0;
+  font-family: 'Special Elite', 'Courier New', monospace;
+  font-size: clamp(15px, 1.8vw, 19px);
+  line-height: 1.45;
+  color: var(--purple);
+}
+
+@media (max-width: 980px) {
+  .branch-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: min(760px, 100%);
+  }
+
+  .branch-card {
+    min-height: 285px;
+  }
+}
+
+@media (max-width: 820px) {
+  .branch-nav {
+    margin-bottom: 22px;
+  }
+
+  .branch-logo {
+    width: min(100%, 500px);
+    margin-bottom: 22px;
+  }
+
+  .branch-hero {
+    margin-bottom: 30px;
+  }
+
+  .branch-hero h1 {
+    font-size: clamp(31px, 8.2vw, 44px);
+  }
+
+  .branch-hero p {
+    font-size: clamp(17px, 4.5vw, 22px);
+  }
+
+  .branch-cards {
+    grid-template-columns: 1fr;
+    width: min(560px, 100%);
+    gap: 20px;
+  }
+
+  .branch-card {
+    min-height: 0;
+    padding: 22px 20px 20px;
+  }
+
+  .branch-card h2 {
+    font-size: clamp(21px, 5.6vw, 27px);
+  }
+
+  .branch-card p {
+    font-size: clamp(16px, 4.25vw, 20px);
+  }
+
+  .branch-button {
+    font-size: clamp(15px, 4vw, 19px);
+  }
+
+  .absurd-sentence {
+    margin-top: 36px;
+  }
+
+  .absurd-sentence p {
+    font-size: clamp(19px, 5.1vw, 25px);
+    line-height: 1.5;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .absurd-sentence p {
+    animation: none;
+  }
+}

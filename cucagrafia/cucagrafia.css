@@ -1,0 +1,370 @@
+:root {
+  --cuca-red: #e40032;
+  --cuca-red-dark: #a90025;
+  --cuca-red-soft: #ffe8ed;
+  --paper: #fffaf2;
+  --paper-strong: #fff3e2;
+  --ink: #202020;
+  --muted: #5c514f;
+  --shadow: 0 12px 30px rgba(30, 10, 10, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuca-page {
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  padding: 24px 20px 42px;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 22px;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.7vw, 18px);
+}
+
+.top-nav a {
+  color: var(--cuca-red-dark);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.top-nav a:hover,
+.top-nav a:focus-visible {
+  border-bottom-color: var(--cuca-red-dark);
+}
+
+.hero {
+  text-align: center;
+  margin: 0 auto 34px;
+}
+
+.title-image {
+  display: block;
+  width: min(620px, 92vw);
+  height: auto;
+  margin: 0 auto 28px;
+}
+
+.tagline,
+.tagline-sub {
+  margin: 0;
+  font-family: 'Special Elite', serif;
+  line-height: 1.5;
+}
+
+.tagline {
+  color: var(--cuca-red);
+  font-size: clamp(22px, 5.3vw, 34px);
+}
+
+.tagline-sub {
+  color: var(--ink);
+  font-size: clamp(16px, 3.7vw, 23px);
+  margin-top: 8px;
+}
+
+.intro-card,
+.freedom-card,
+.dictionary-card,
+.instructions {
+  margin: 28px auto 0;
+}
+
+.intro-card,
+.freedom-card,
+.dictionary-card {
+  max-width: 900px;
+  background: rgba(255, 255, 255, 0.36);
+  border: 2px solid var(--cuca-red);
+  border-radius: 22px;
+  padding: clamp(22px, 4vw, 34px);
+  box-shadow: var(--shadow);
+}
+
+.intro-card h1,
+.freedom-card h2,
+.dictionary-card h2,
+.instructions h2 {
+  margin: 0 0 18px;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.intro-card h1 {
+  font-size: clamp(27px, 5vw, 42px);
+}
+
+.freedom-card h2,
+.dictionary-card h2,
+.instructions h2 {
+  font-size: clamp(25px, 4.6vw, 38px);
+}
+
+.intro-card p,
+.freedom-card p,
+.freedom-card li,
+.dictionary-card li,
+.dictionary-card p,
+.instruction-card p,
+.page-footer p {
+  font-size: clamp(17px, 2.2vw, 20px);
+  line-height: 1.62;
+}
+
+.intro-card p,
+.freedom-card p,
+.dictionary-card p {
+  margin: 0 0 16px;
+}
+
+.intro-card p:last-child,
+.freedom-card p:last-child,
+.dictionary-card p:last-child {
+  margin-bottom: 0;
+}
+
+.freedom-card {
+  background: var(--cuca-red-soft);
+}
+
+.freedom-card ul {
+  width: fit-content;
+  max-width: 100%;
+  margin: 8px auto 18px;
+  padding-left: 24px;
+}
+
+.freedom-card li {
+  margin: 5px 0;
+}
+
+.dictionary-card {
+  position: relative;
+  padding-left: clamp(26px, 5vw, 44px);
+}
+
+.dictionary-card::before {
+  content: '';
+  position: absolute;
+  top: 26px;
+  bottom: 26px;
+  left: 18px;
+  width: 5px;
+  border-radius: 999px;
+  background: var(--cuca-red);
+}
+
+.dictionary-card h2 {
+  text-align: left;
+  margin-left: 12px;
+}
+
+.dict-class,
+.etymology {
+  color: var(--muted);
+}
+
+.dictionary-card ol {
+  margin: 0 0 18px 26px;
+  padding: 0;
+}
+
+.dictionary-card li {
+  padding-left: 6px;
+  margin: 6px 0;
+}
+
+.instructions {
+  max-width: 1080px;
+}
+
+.instructions h2 {
+  margin-bottom: 22px;
+}
+
+.instruction-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.instruction-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 265px;
+  padding: 24px 22px;
+  border: 2px solid var(--cuca-red);
+  border-radius: 20px;
+  background: rgba(255,255,255,0.42);
+  box-shadow: var(--shadow);
+}
+
+.wide-card {
+  grid-column: 1 / -1;
+  min-height: 210px;
+}
+
+.card-letter {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 48px;
+  height: 48px;
+  padding: 0 10px;
+  margin-bottom: 14px;
+  border-radius: 999px;
+  background: var(--cuca-red);
+  color: white;
+  font-family: 'Special Elite', serif;
+  font-size: 20px;
+}
+
+.instruction-card h3 {
+  margin: 0 0 10px;
+  color: var(--cuca-red-dark);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(21px, 3.2vw, 29px);
+  font-weight: 400;
+}
+
+.instruction-card p {
+  margin: 0 0 22px;
+  color: var(--ink);
+}
+
+.button {
+  display: inline-block;
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 12px 18px;
+  border-radius: 999px;
+  background: var(--cuca-red);
+  color: white;
+  font-family: 'Special Elite', serif;
+  font-size: 17px;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.button:hover,
+.button:focus-visible {
+  background: var(--cuca-red-dark);
+}
+
+.button.secondary {
+  background: transparent;
+  color: var(--cuca-red-dark);
+  border: 2px solid var(--cuca-red);
+}
+
+.button.secondary:hover,
+.button.secondary:focus-visible {
+  background: var(--cuca-red);
+  color: white;
+}
+
+.page-footer {
+  margin: 46px auto 0;
+  padding-top: 22px;
+  border-top: 1px solid rgba(228, 0, 50, 0.35);
+  text-align: center;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+}
+
+.page-footer p {
+  margin: 6px 0;
+}
+
+@media (max-width: 760px) {
+  .cuca-page {
+    padding: 20px 16px 34px;
+  }
+
+  .top-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .title-image {
+    width: min(560px, 96vw);
+    margin-bottom: 24px;
+  }
+
+  .hero {
+    margin-bottom: 30px;
+  }
+
+  .intro-card,
+  .freedom-card,
+  .dictionary-card {
+    border-radius: 18px;
+  }
+
+  .instruction-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .instruction-card,
+  .wide-card {
+    min-height: auto;
+  }
+
+  .button {
+    align-self: center;
+  }
+
+  .card-letter {
+    align-self: center;
+  }
+
+  .instruction-card {
+    text-align: center;
+  }
+}
+
+@media (max-width: 420px) {
+  .cuca-page {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .tagline {
+    font-size: clamp(21px, 6.2vw, 27px);
+  }
+
+  .tagline-sub {
+    font-size: clamp(15px, 4.8vw, 20px);
+  }
+
+  .intro-card p,
+  .freedom-card p,
+  .freedom-card li,
+  .dictionary-card li,
+  .dictionary-card p,
+  .instruction-card p,
+  .page-footer p {
+    font-size: 17px;
+  }
+}

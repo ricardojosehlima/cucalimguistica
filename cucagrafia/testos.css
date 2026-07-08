@@ -1,0 +1,281 @@
+:root {
+  --cuca-red: #e40032;
+  --cuca-red-dark: #a90025;
+  --cuca-red-soft: #ffe8ed;
+  --paper: #fffaf2;
+  --paper-strong: #fff3e2;
+  --ink: #202020;
+  --muted: #5c514f;
+  --shadow: 0 12px 30px rgba(30, 10, 10, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuca-page {
+  width: min(1060px, 100%);
+  margin: 0 auto;
+  padding: 24px 20px 42px;
+}
+
+.top-nav,
+.bottom-nav {
+  display: flex;
+  gap: 14px;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.7vw, 18px);
+}
+
+.top-nav {
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
+.top-nav a,
+.bottom-nav a {
+  color: var(--cuca-red-dark);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.top-nav a:hover,
+.top-nav a:focus-visible,
+.bottom-nav a:hover,
+.bottom-nav a:focus-visible {
+  border-bottom-color: var(--cuca-red-dark);
+}
+
+.page-hero {
+  max-width: 900px;
+  margin: 0 auto 28px;
+  text-align: center;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(15px, 3vw, 20px);
+}
+
+.page-hero h1 {
+  margin: 0;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(38px, 8vw, 72px);
+  font-weight: 400;
+  line-height: 1.05;
+}
+
+.subtitle {
+  max-width: 820px;
+  margin: 18px auto 0;
+  color: var(--ink);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(18px, 3.8vw, 27px);
+  line-height: 1.42;
+}
+
+.intro-card {
+  max-width: 900px;
+  margin: 28px auto 0;
+  padding: clamp(22px, 4vw, 34px);
+  border: 2px solid var(--cuca-red);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.36);
+  box-shadow: var(--shadow);
+}
+
+.intro-card h2 {
+  margin: 0 0 16px;
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(25px, 4.6vw, 38px);
+  font-weight: 400;
+  text-align: center;
+}
+
+.intro-card p,
+.text-panel p,
+.text-panel li,
+.page-footer p {
+  font-size: clamp(17px, 2.2vw, 20px);
+  line-height: 1.62;
+}
+
+.intro-card p {
+  margin: 0 0 16px;
+}
+
+.intro-card p:last-child {
+  margin-bottom: 0;
+}
+
+.accordion-list {
+  max-width: 940px;
+  margin: 32px auto 0;
+}
+
+.text-panel {
+  margin: 16px 0;
+  border: 2px solid var(--cuca-red);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.42);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.text-panel[open] {
+  background: rgba(255, 232, 237, 0.42);
+}
+
+.text-panel summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 20px 22px;
+  color: var(--cuca-red-dark);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(22px, 4vw, 34px);
+  line-height: 1.2;
+}
+
+.text-panel summary::-webkit-details-marker {
+  display: none;
+}
+
+.text-panel summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 10px;
+  color: var(--cuca-red);
+  transition: transform 160ms ease;
+}
+
+.text-panel[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.text-panel summary span {
+  display: inline;
+}
+
+.text-panel summary small {
+  display: block;
+  margin-top: 7px;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(14px, 2.5vw, 17px);
+  line-height: 1.35;
+}
+
+.panel-body {
+  padding: 0 24px 24px 56px;
+}
+
+.panel-body p {
+  margin: 0 0 16px;
+}
+
+.panel-body p:last-child {
+  margin-bottom: 0;
+}
+
+.panel-body h3 {
+  margin: 26px 0 12px;
+  color: var(--cuca-red-dark);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(23px, 3.8vw, 32px);
+  font-weight: 400;
+}
+
+.panel-body h3:first-child {
+  margin-top: 0;
+}
+
+.note {
+  padding: 16px 18px;
+  border-left: 5px solid var(--cuca-red);
+  border-radius: 12px;
+  background: var(--paper-strong);
+  color: var(--muted);
+}
+
+blockquote {
+  margin: 20px 0 0;
+  padding: 18px 22px;
+  border-left: 5px solid var(--cuca-red);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.65);
+  font-family: 'Special Elite', serif;
+  font-size: clamp(21px, 4vw, 30px);
+  line-height: 1.35;
+}
+
+.text-prose p {
+  text-align: left;
+}
+
+.poem-lines p {
+  font-family: 'Special Elite', serif;
+  font-size: clamp(18px, 2.7vw, 22px);
+  line-height: 1.55;
+}
+
+.bottom-nav {
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 44px auto 0;
+  padding-top: 20px;
+  border-top: 1px solid rgba(228, 0, 50, 0.28);
+}
+
+.page-footer {
+  margin: 32px auto 0;
+  text-align: center;
+  color: var(--muted);
+  font-family: 'Special Elite', serif;
+}
+
+.page-footer p {
+  margin: 6px 0;
+}
+
+@media (max-width: 760px) {
+  .cuca-page {
+    padding: 20px 16px 34px;
+  }
+
+  .top-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .page-hero {
+    margin-bottom: 24px;
+  }
+
+  .intro-card,
+  .text-panel {
+    border-radius: 18px;
+  }
+
+  .text-panel summary {
+    padding: 18px 18px;
+  }
+
+  .panel-body {
+    padding: 0 18px 22px 24px;
+  }
+}

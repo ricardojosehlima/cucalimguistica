@@ -1,0 +1,362 @@
+:root {
+  --cuca-blue: #302681;
+  --cuca-blue-soft: #eceaf9;
+  --cuca-red: #e40032;
+  --cuca-yellow: #f4c400;
+  --cuca-green: #009440;
+  --cuca-cream: #fffaf2;
+  --cuca-cream-2: #fff5e6;
+  --cuca-card: #fffdf8;
+  --cuca-text: #222222;
+  --shadow-soft: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body.teoria-page {
+  margin: 0;
+  min-height: 100%;
+  background: var(--cuca-cream);
+  color: var(--cuca-text);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.teoria-shell {
+  width: min(1080px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 54px;
+}
+
+.page-nav,
+.bottom-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+  font-family: 'Special Elite', serif;
+}
+
+.page-nav a,
+.bottom-links a {
+  color: var(--cuca-blue);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.page-nav a:hover,
+.page-nav a:focus-visible,
+.bottom-links a:hover,
+.bottom-links a:focus-visible {
+  border-bottom-color: var(--cuca-blue);
+}
+
+.teoria-hero {
+  text-align: center;
+  margin: 22px auto 30px;
+}
+
+.branch-label {
+  margin: 0 0 10px;
+  font-family: 'Special Elite', serif;
+  color: var(--cuca-blue);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: clamp(13px, 2.8vw, 16px);
+}
+
+.teoria-hero h1 {
+  margin: 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(44px, 10vw, 86px);
+  line-height: 1;
+  color: var(--cuca-blue);
+  font-weight: 400;
+  text-wrap: balance;
+}
+
+.teoria-subtitle {
+  margin: 14px 0 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(19px, 4.5vw, 28px);
+  line-height: 1.25;
+  color: var(--cuca-text);
+}
+
+.teoria-tagline {
+  display: inline-block;
+  margin: 16px auto 0;
+  padding: 10px 16px;
+  border: 2px dashed var(--cuca-yellow);
+  border-radius: 999px;
+  background: #ffffff66;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(16px, 3.8vw, 22px);
+  line-height: 1.25;
+  color: var(--cuca-blue);
+}
+
+.teoria-intro {
+  max-width: 850px;
+  margin: 0 auto 28px;
+  padding: 22px 24px;
+  border: 2px solid var(--cuca-blue);
+  border-radius: 22px;
+  background: var(--cuca-cream-2);
+  box-shadow: var(--shadow-soft);
+  text-align: center;
+}
+
+.teoria-intro p {
+  margin: 0 0 10px;
+  font-size: clamp(17px, 3.6vw, 21px);
+  line-height: 1.48;
+}
+
+.teoria-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.accordion-list {
+  max-width: 930px;
+  margin: 0 auto;
+}
+
+.teoria-panel {
+  border: 2px solid var(--cuca-blue);
+  border-radius: 18px;
+  background: var(--cuca-card);
+  margin: 14px 0;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.045);
+}
+
+.teoria-panel[open] {
+  background: var(--cuca-blue-soft);
+}
+
+.teoria-panel summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 18px 20px 16px;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(18px, 4vw, 25px);
+  line-height: 1.25;
+  color: var(--cuca-blue);
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.teoria-panel summary::-webkit-details-marker {
+  display: none;
+}
+
+.teoria-panel summary::before {
+  content: "+";
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: white;
+  background: var(--cuca-blue);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.teoria-panel[open] summary::before {
+  content: "−";
+}
+
+.panel-content {
+  padding: 0 24px 22px 64px;
+  font-size: clamp(16px, 3.4vw, 19px);
+  line-height: 1.58;
+  color: var(--cuca-text);
+}
+
+.panel-content p {
+  margin: 0 0 13px;
+}
+
+.pdf-section {
+  max-width: 930px;
+  margin: 32px auto 0;
+  padding-top: 10px;
+}
+
+.pdf-section h2 {
+  margin: 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(28px, 6vw, 46px);
+  line-height: 1.1;
+  color: var(--cuca-blue);
+  text-align: center;
+  font-weight: 400;
+}
+
+.pdf-section-note {
+  max-width: 760px;
+  margin: 12px auto 22px;
+  text-align: center;
+  font-size: clamp(16px, 3.2vw, 19px);
+  line-height: 1.48;
+  color: var(--cuca-text);
+}
+
+.pdf-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.pdf-card {
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px 22px 20px;
+  border: 2px solid var(--cuca-blue);
+  border-radius: 20px;
+  background: var(--cuca-card);
+  box-shadow: var(--shadow-soft);
+  text-align: center;
+}
+
+.pdf-card h3 {
+  margin: 0 0 12px;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(22px, 4.4vw, 30px);
+  line-height: 1.12;
+  color: var(--cuca-blue);
+  font-weight: 400;
+}
+
+.pdf-card p {
+  margin: 0 0 10px;
+  font-size: clamp(16px, 3.2vw, 19px);
+  line-height: 1.45;
+}
+
+.pdf-meta {
+  color: var(--cuca-red);
+  font-family: 'Special Elite', serif;
+}
+
+.pdf-actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.pdf-actions a {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 16px 9px;
+  border-radius: 999px;
+  background: var(--cuca-blue);
+  color: white;
+  text-decoration: none;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 3.2vw, 17px);
+  line-height: 1.2;
+}
+
+.pdf-actions a:nth-child(2) {
+  background: var(--cuca-red);
+}
+
+.pdf-actions a:hover,
+.pdf-actions a:focus-visible {
+  filter: brightness(0.92);
+}
+
+.bottom-links {
+  max-width: 930px;
+  margin: 32px auto 0;
+  padding-top: 16px;
+  border-top: 2px dashed var(--cuca-yellow);
+}
+
+@media (max-width: 720px) {
+  .pdf-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pdf-card {
+    min-height: 0;
+  }
+}
+
+@media (max-width: 620px) {
+  .teoria-shell {
+    width: min(100% - 22px, 1080px);
+    padding-top: 22px;
+  }
+
+  .page-nav {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 22px;
+  }
+
+  .teoria-hero {
+    margin-top: 16px;
+  }
+
+  .teoria-tagline {
+    border-radius: 18px;
+  }
+
+  .teoria-intro {
+    padding: 19px 18px;
+    border-radius: 18px;
+  }
+
+  .teoria-panel summary {
+    padding: 16px 15px 14px;
+    gap: 10px;
+  }
+
+  .teoria-panel summary::before {
+    width: 27px;
+    height: 27px;
+  }
+
+  .panel-content {
+    padding: 0 17px 20px 52px;
+  }
+
+  .bottom-links {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .panel-content {
+    padding-left: 18px;
+  }
+
+  .teoria-panel summary {
+    align-items: flex-start;
+  }
+
+  .teoria-panel summary::before {
+    margin-top: -2px;
+  }
+}

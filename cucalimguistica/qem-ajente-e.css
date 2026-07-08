@@ -1,0 +1,418 @@
+:root {
+  --cuca-blue: #302681;
+  --cuca-blue-soft: #eceaf9;
+  --cuca-red: #e40032;
+  --cuca-yellow: #f4c400;
+  --cuca-green: #009440;
+  --cuca-cream: #fffaf2;
+  --cuca-cream-2: #fff5e6;
+  --cuca-text: #222222;
+}
+
+body.qem-page {
+  margin: 0;
+  background: var(--cuca-cream);
+  color: var(--cuca-text);
+}
+
+.qem-shell {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 58px;
+}
+
+.page-nav,
+.bottom-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+  font-family: 'Special Elite', serif;
+}
+
+.page-nav a,
+.bottom-links a {
+  color: var(--cuca-blue);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.page-nav a:hover,
+.bottom-links a:hover,
+.page-nav a:focus-visible,
+.bottom-links a:focus-visible {
+  border-bottom-color: var(--cuca-blue);
+}
+
+.qem-hero {
+  text-align: center;
+  margin: 22px auto 30px;
+}
+
+.branch-label {
+  margin: 0 0 10px;
+  font-family: 'Special Elite', serif;
+  color: var(--cuca-blue);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: clamp(13px, 2.8vw, 16px);
+}
+
+.qem-hero h1 {
+  margin: 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(42px, 9vw, 82px);
+  line-height: 1.02;
+  color: var(--cuca-blue);
+  text-wrap: balance;
+}
+
+.qem-subtitle {
+  max-width: 860px;
+  margin: 14px auto 0;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(19px, 4.3vw, 30px);
+  line-height: 1.25;
+  color: var(--cuca-text);
+  text-wrap: balance;
+}
+
+.qem-intro {
+  max-width: 850px;
+  margin: 0 auto 30px;
+  padding: 22px 24px;
+  border: 2px solid var(--cuca-blue);
+  border-radius: 22px;
+  background: var(--cuca-cream-2);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+  text-align: center;
+}
+
+.qem-intro p {
+  margin: 0 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(17px, 3.4vw, 21px);
+  line-height: 1.5;
+}
+
+.qem-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.origin-section {
+  max-width: 930px;
+  margin: 0 auto 34px;
+}
+
+.origin-card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 22px;
+  align-items: center;
+  padding: 22px 24px;
+  border: 2px dashed var(--cuca-yellow);
+  border-radius: 22px;
+  background: #fffdf8;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.045);
+}
+
+.origin-kicker {
+  margin: 0 0 7px;
+  font-family: 'Special Elite', serif;
+  color: var(--cuca-red);
+  font-size: clamp(15px, 2.8vw, 18px);
+}
+
+.origin-card h2 {
+  margin: 0 0 8px;
+  font-family: 'Special Elite', serif;
+  font-weight: 400;
+  font-size: clamp(26px, 5vw, 42px);
+  line-height: 1.05;
+  color: var(--cuca-blue);
+}
+
+.origin-card p {
+  margin: 0 0 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(16px, 3.2vw, 20px);
+  line-height: 1.45;
+}
+
+.pdf-meta {
+  color: #555;
+}
+
+.pdf-actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.pdf-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 10px 16px 8px;
+  border-radius: 999px;
+  background: var(--cuca-blue);
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.7vw, 17px);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.pdf-actions a:nth-child(2) {
+  background: transparent;
+  color: var(--cuca-blue);
+  border: 2px solid var(--cuca-blue);
+}
+
+.pdf-actions a:hover,
+.pdf-actions a:focus-visible {
+  transform: translateY(-1px);
+}
+
+.persona-gallery {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  align-items: stretch;
+}
+
+.persona-card {
+  min-width: 0;
+  padding: 16px 16px 20px;
+  border: 2px solid var(--cuca-blue);
+  border-radius: 24px;
+  background: #fffdf8;
+  box-shadow: 0 7px 22px rgba(0,0,0,0.065);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.persona-figure {
+  margin: 0;
+  aspect-ratio: 1 / 1;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #d6d6d6;
+  border: 1px solid rgba(48,38,129,0.25);
+}
+
+.persona-figure img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.persona-content {
+  text-align: center;
+}
+
+.persona-content h2 {
+  margin: 0 0 14px;
+  font-family: 'Special Elite', serif;
+  font-weight: 400;
+  font-size: clamp(25px, 3vw, 34px);
+  line-height: 1.1;
+  color: var(--cuca-blue);
+}
+
+.persona-content p {
+  margin: 0 0 9px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(16px, 1.65vw, 19px);
+  line-height: 1.5;
+  color: var(--cuca-text);
+}
+
+.persona-content p:last-child {
+  margin-bottom: 0;
+}
+
+.persona-signature {
+  display: block;
+  width: 100%;
+  max-height: 94px;
+  object-fit: contain;
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+.bottom-links {
+  max-width: 930px;
+  margin: 36px auto 0;
+  padding-top: 16px;
+  border-top: 2px dashed var(--cuca-yellow);
+}
+
+@media (max-width: 900px) {
+  .persona-gallery {
+    grid-template-columns: 1fr;
+    max-width: 560px;
+  }
+
+  .origin-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .pdf-actions {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 620px) {
+  .qem-shell {
+    width: min(100% - 22px, 1120px);
+    padding-top: 22px;
+  }
+
+  .page-nav {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 22px;
+  }
+
+  .qem-hero {
+    margin-top: 16px;
+  }
+
+  .qem-intro {
+    padding: 19px 18px;
+    border-radius: 19px;
+  }
+
+  .origin-card {
+    padding: 20px 18px;
+    border-radius: 20px;
+  }
+
+  .persona-card {
+    padding: 14px 14px 18px;
+  }
+
+  .persona-content p {
+    font-size: clamp(16px, 4.1vw, 18px);
+  }
+
+  .bottom-links {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+/* Heyzine / dossiê folheável */
+.dossier-section {
+  max-width: 980px;
+  margin: 0 auto 36px;
+}
+
+.dossier-card {
+  padding: 24px;
+  border: 2px solid var(--cuca-blue);
+  border-radius: 24px;
+  background: #fffdf8;
+  box-shadow: 0 7px 22px rgba(0,0,0,0.06);
+  text-align: center;
+}
+
+.dossier-kicker {
+  margin: 0 0 8px;
+  font-family: 'Special Elite', serif;
+  color: var(--cuca-red);
+  font-size: clamp(15px, 2.8vw, 18px);
+}
+
+.dossier-card h2 {
+  margin: 0 0 10px;
+  font-family: 'Special Elite', serif;
+  font-weight: 400;
+  font-size: clamp(28px, 5.4vw, 46px);
+  line-height: 1.05;
+  color: var(--cuca-blue);
+  text-wrap: balance;
+}
+
+.dossier-card p {
+  margin: 0 auto 10px;
+  max-width: 760px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(16px, 3.2vw, 20px);
+  line-height: 1.5;
+}
+
+.dossier-note {
+  color: #555;
+}
+
+.dossier-actions {
+  margin: 18px auto 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.dossier-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 11px 18px 9px;
+  border-radius: 999px;
+  background: var(--cuca-blue);
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Special Elite', serif;
+  font-size: clamp(14px, 2.8vw, 18px);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.dossier-actions a:hover,
+.dossier-actions a:focus-visible {
+  transform: translateY(-1px);
+}
+
+.heyzine-frame-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 920px;
+  margin: 0 auto;
+  height: 0;
+  padding-bottom: 65%;
+  border-radius: 18px;
+  overflow: hidden;
+  border: 1px solid rgba(48, 38, 129, 0.35);
+  background: #111111;
+}
+
+.heyzine-frame-wrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+@media (max-width: 700px) {
+  .dossier-card {
+    padding: 20px 16px;
+    border-radius: 21px;
+  }
+
+  .heyzine-frame-wrap {
+    padding-bottom: 130%;
+  }
+}
