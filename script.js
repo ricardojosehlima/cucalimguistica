@@ -1,12 +1,12 @@
 const mottoVersions = [
   [
-    'pela a língua da gente.',
-    'contra a norma (do) pa(<span class="strike">d</span>)trão.',
-    'com biscoito E bolacha.'
+    'Pela a língua da gente.',
+    'Contra a norma padrão.',
+    'Com biscoito E bolacha.'
   ],
   [
-    'pela a limgua da jente.',
-    'contra a norrma (do) pa(<span class="strike">d</span>)traum.',
+    'pela a limgua da jente',
+    'contra a norrma <span style="text-decoration: underline;">do</span> pa<span style="text-decoration: underline;">t</span>raum.',
     'com biscoito e bolaxa'
   ]
 ];
