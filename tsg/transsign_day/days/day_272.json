@@ -1,0 +1,48 @@
+{
+  "day": 272,
+  "date": "2027-05-20",
+  "seed": 20260973,
+  "form": "recém-premissaóide",
+  "classification": "animal",
+  "classification_score": 80,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 40,
+    "wildness_index": "alto",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "Afixação repetida pode produzir instabilidade local.",
+    "Recomenda-se manter gramáticas normativas em local fechado."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora incline a palavra para fora da rotina.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "recém-premissaóide trata a derivação como ritual instável, não como regra pacífica. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "premissa",
+    "base_pos": "N",
+    "afixos": "recém-,óide",
+    "tipos_afixo": "prefixo,sufixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

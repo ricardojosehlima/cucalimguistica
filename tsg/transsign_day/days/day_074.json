@@ -1,0 +1,49 @@
+{
+  "day": 74,
+  "date": "2026-11-03",
+  "seed": 20260775,
+  "form": "maçaneta-de-estômago",
+  "classification": "sopa certificada",
+  "classification_score": 94,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 63,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "ambígua",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Duas massas lexicais podem colidir sem autorização sintática.",
+    "A superfície da palavra tende a parecer mais oficial do que deveria.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "maçaneta-de-estômago encena um contato entre materiais lexicais que não estavam esperando um pelo outro. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "maçaneta",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "maçaneta",
+    "componente_1_pos": "N",
+    "componente_2": "estômago",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

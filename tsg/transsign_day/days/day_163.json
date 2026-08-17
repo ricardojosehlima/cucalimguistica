@@ -1,0 +1,46 @@
+{
+  "day": 163,
+  "date": "2027-01-31",
+  "seed": 20260864,
+  "form": "pureziatriaiatria",
+  "classification": "instável",
+  "classification_score": 49,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 34,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "ambígua",
+    "category_instability": "visível",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora incline a palavra para fora da rotina.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "pureziatriaiatria mostra o que acontece quando a afixação insiste um pouco demais. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_recursiva. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "pureza",
+    "base_pos": "N",
+    "afixos": "iatria,iatria",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "repetition_only",
+    "transgressões": "transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

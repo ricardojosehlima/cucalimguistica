@@ -1,0 +1,49 @@
+{
+  "day": 266,
+  "date": "2027-05-14",
+  "seed": 20260967,
+  "form": "euroremediar",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 38,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "A zona final da palavra exige atenção morfológica.",
+    "Excesso terminológico pode se acumular em sílabas finais.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora solte os parafusos da categoria.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "euroremediar aplica morfologia onde a cautela lexical comum hesitaria. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "remediar",
+    "base_pos": "V",
+    "afixos": "euro",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

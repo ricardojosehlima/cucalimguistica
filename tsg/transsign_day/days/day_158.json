@@ -1,0 +1,46 @@
+{
+  "day": 158,
+  "date": "2027-01-26",
+  "seed": 20260859,
+  "form": "estrelamente",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora permita que a forma oscile.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "estrelamente trata a derivação como ritual instável, não como regra pacífica. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "estrela",
+    "base_pos": "N",
+    "afixos": "mente",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

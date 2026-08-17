@@ -1,0 +1,47 @@
+{
+  "day": 124,
+  "date": "2026-12-23",
+  "seed": 20260825,
+  "form": "cabelíssimo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 9,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "ainda controlável",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "cabelíssimo nasce de uma pressão afixal e deixa a base absorver a perturbação. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "cabelo",
+    "base_pos": "N",
+    "afixos": "íssimo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

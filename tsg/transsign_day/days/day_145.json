@@ -1,0 +1,48 @@
+{
+  "day": 145,
+  "date": "2027-01-13",
+  "seed": 20260846,
+  "form": "chamamotorere",
+  "classification": "sopa certificada",
+  "classification_score": 97,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 49,
+    "wildness_index": "feral",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "úmida",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "chamamotorere aplica morfologia onde a cautela lexical comum hesitaria. O signo já exige cuidado, pois a estabilidade não está garantida. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "chama",
+    "base_pos": "N",
+    "afixos": "moto,re,re",
+    "tipos_afixo": "prefixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_repetition",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

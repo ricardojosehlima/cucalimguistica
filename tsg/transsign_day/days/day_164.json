@@ -1,0 +1,46 @@
+{
+  "day": 164,
+  "date": "2027-02-01",
+  "seed": 20260865,
+  "form": "reconhecerizar",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 16,
+    "wildness_index": "alto",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "reconhecerizar preserva algo reconhecível enquanto desloca a forma para fora do comum. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "reconhecer",
+    "base_pos": "V",
+    "afixos": "izar",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "V",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

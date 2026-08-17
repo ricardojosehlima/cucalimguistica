@@ -1,0 +1,46 @@
+{
+  "day": 150,
+  "date": "2027-01-18",
+  "seed": 20260851,
+  "form": "antipatiza-arroio",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 89,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "moderada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora incline a palavra para fora da rotina.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "antipatiza-arroio cria uma vizinhança lexical em que a relação interna permanece suspeita. A forma mantém alguma disciplina, embora a estrutura esteja claramente forçada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "antipatizar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "antipatizar",
+    "componente_1_pos": "V",
+    "componente_2": "arroio",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

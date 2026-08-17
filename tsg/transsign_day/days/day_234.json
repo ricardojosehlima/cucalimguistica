@@ -1,0 +1,47 @@
+{
+  "day": 234,
+  "date": "2027-04-12",
+  "seed": 20260935,
+  "form": "estrondearilândia",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 34,
+    "wildness_index": "médio",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "estrondearilândia transforma a borda da palavra em zona de intervenção. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "estrondear",
+    "base_pos": "V",
+    "afixos": "lândia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "day": 165,
+  "date": "2027-02-02",
+  "seed": 20260866,
+  "form": "moinhésimo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 12,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "moinhésimo mostra o que acontece quando a afixação insiste um pouco demais. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "moinho",
+    "base_pos": "N",
+    "afixos": "ésimo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

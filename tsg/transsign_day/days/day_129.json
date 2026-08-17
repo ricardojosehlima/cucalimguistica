@@ -1,0 +1,46 @@
+{
+  "day": 129,
+  "date": "2026-12-28",
+  "seed": 20260830,
+  "form": "obviarão",
+  "classification": "suspeito",
+  "classification_score": 21,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "seca",
+    "category_instability": "pouco ameaçadora",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "normal"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "obviarão mostra o que acontece quando a afixação insiste um pouco demais. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "obviar",
+    "base_pos": "V",
+    "afixos": "ão",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

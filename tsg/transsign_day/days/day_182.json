@@ -1,0 +1,49 @@
+{
+  "day": 182,
+  "date": "2027-02-19",
+  "seed": 20260883,
+  "form": "subalém-protegido",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 21,
+    "wildness_index": "barroco",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Sufixos podem aparecer onde a base ainda não se preparou.",
+    "Há chance de erudição falsa com visibilidade moderada.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "subalém-protegido preserva algo reconhecível enquanto desloca a forma para fora do comum. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "protegido",
+    "base_pos": "ADJ",
+    "afixos": "além-,sub",
+    "tipos_afixo": "prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

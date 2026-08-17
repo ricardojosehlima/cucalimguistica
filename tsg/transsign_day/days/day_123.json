@@ -1,0 +1,46 @@
+{
+  "day": 123,
+  "date": "2026-12-22",
+  "seed": 20260824,
+  "form": "agraciarimancia",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 34,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "ambígua",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "agraciarimancia transforma a borda da palavra em zona de intervenção. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "agraciar",
+    "base_pos": "V",
+    "afixos": "mancia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "day": 202,
+  "date": "2027-03-11",
+  "seed": 20260903,
+  "form": "oniparaoitenta",
+  "classification": "sopa certificada",
+  "classification_score": 93,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "feral",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "oniparaoitenta mostra o que acontece quando a afixação insiste um pouco demais. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "oitenta",
+    "base_pos": "NUM",
+    "afixos": "para,oni",
+    "tipos_afixo": "prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

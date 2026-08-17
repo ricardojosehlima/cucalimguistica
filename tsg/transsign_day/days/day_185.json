@@ -1,0 +1,47 @@
+{
+  "day": 185,
+  "date": "2027-02-22",
+  "seed": 20260886,
+  "form": "gabinete-de-quanto",
+  "classification": "sopa certificada",
+  "classification_score": 83,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 72,
+    "wildness_index": "feral",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "inquieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "gabinete-de-quanto cria uma vizinhança lexical em que a relação interna permanece suspeita. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "gabinete",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "gabinete",
+    "componente_1_pos": "N",
+    "componente_2": "quanto",
+    "componente_2_pos": "PRON",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 317,
+  "date": "2027-07-04",
+  "seed": 20261018,
+  "form": "qualnomiaanteante",
+  "classification": "sopa certificada",
+  "classification_score": 97,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 26,
+    "wildness_index": "feral",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora aumente a instabilidade.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "qualnomiaanteante trata a derivação como ritual instável, não como regra pacífica. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "qual",
+    "base_pos": "PRON",
+    "afixos": "nomia,ante,ante",
+    "tipos_afixo": "sufixo,sufixo,sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_repetition",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

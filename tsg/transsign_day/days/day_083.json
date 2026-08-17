@@ -1,0 +1,47 @@
+{
+  "day": 83,
+  "date": "2026-11-12",
+  "seed": 20260784,
+  "form": "população-tu",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 62,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "ambígua",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "população-tu faz a composição parecer regra, mas com documentação incompleta. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "população",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "população",
+    "componente_1_pos": "N",
+    "componente_2": "tu",
+    "componente_2_pos": "PRON",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

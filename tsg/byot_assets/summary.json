@@ -1,0 +1,605 @@
+{
+  "counts": {
+    "prefixes": 127,
+    "suffixes": 97,
+    "words": 5000
+  },
+  "word_pos_distribution": {
+    "aj": 1052,
+    "av": 38,
+    "cj": 1,
+    "intj": 12,
+    "n": 3076,
+    "pn": 5,
+    "v": 816
+  },
+  "sample_prefixes": [
+    {
+      "id": "pref_a",
+      "form": "a",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['negação', 'ausência', 'privação', 'não_pertencimento']; ['qualidade', 'propriedade', 'estado', 'categoria_abstrata', 'condição']"
+    },
+    {
+      "id": "pref_aero",
+      "form": "aero",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['ar', 'aviação', 'espaço_aéreo', 'deslocamento_aéreo']; ['transporte', 'tecnologia', 'espaço', 'movimento', 'fenômeno_físico']"
+    },
+    {
+      "id": "pref_afro",
+      "form": "afro",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['origem_africana', 'relação_cultural', 'pertencimento', 'identidade']; ['cultura', 'origem', 'grupo_humano', 'identidade', 'prática_social']"
+    },
+    {
+      "id": "pref_agri",
+      "form": "agri",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['agricultura', 'campo', 'cultivo', 'produção_rural']; ['atividade_produtiva', 'terra', 'cultivo', 'alimento', 'ruralidade']"
+    },
+    {
+      "id": "pref_alem",
+      "form": "além-",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['ultrapassagem', 'exterioridade', 'posterioridade', 'transcendência']; ['espaço', 'limite', 'tempo', 'morte', 'fronteira', 'domínio_abstrato']"
+    },
+    {
+      "id": "pref_ambi",
+      "form": "ambi",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['duplicidade', 'bilateralidade', 'ambos', 'dupla_orientação']; ['lado', 'direção', 'posição', 'orientação', 'relação_dupla']"
+    },
+    {
+      "id": "pref_anarco",
+      "form": "anarco",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['anarquismo', 'negação_de_autoridade', 'antiautoritarismo', 'desordem']; ['política', 'doutrina', 'organização_social', 'autoridade', 'sistema_de_poder']"
+    },
+    {
+      "id": "pref_andro",
+      "form": "andro",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['masculino', 'homem', 'macho', 'relação_de_gênero']; ['humano', 'animal', 'corpo', 'sexo', 'gênero']"
+    },
+    {
+      "id": "pref_ante",
+      "form": "ante",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['anterioridade', 'precedência', 'antecipação', 'posição_anterior']; ['tempo', 'espaço', 'sequência', 'evento', 'posição']"
+    },
+    {
+      "id": "pref_anti",
+      "form": "anti",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['oposição', 'contrariedade', 'combate', 'negação_ativa']; ['doutrina', 'grupo', 'prática', 'propriedade', 'instituição', 'entidade', 'processo']"
+    },
+    {
+      "id": "pref_aqua",
+      "form": "aqua",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['água', 'meio_aquático', 'fluidez', 'ambiente_líquido']; ['substância', 'ambiente', 'animal', 'planta', 'atividade', 'fenômeno_natural']"
+    },
+    {
+      "id": "pref_aquem",
+      "form": "aquém-",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['posição_inferior', 'posição_anterior_ao_limite', 'insuficiência', 'não_ultrapassagem']; ['limite', 'fronteira', 'espaço', 'grau', 'expectativa', 'comparação']"
+    },
+    {
+      "id": "pref_arqueo",
+      "form": "arqueo",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['antiguidade', 'passado_remoto', 'arqueologia', 'origem_antiga']; ['tempo', 'história', 'objeto', 'cultura_material', 'civilização', 'vestígio']"
+    },
+    {
+      "id": "pref_arqui",
+      "form": "arqui",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['superioridade', 'intensificação', 'primazia', 'hierarquia']; ['cargo', 'posição', 'grau', 'qualidade', 'hierarquia', 'função_social']"
+    },
+    {
+      "id": "pref_astro",
+      "form": "astro",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['astro', 'espaço_celeste', 'astronomia', 'corpo_celeste']; ['espaço', 'ciência', 'corpo_celeste', 'fenômeno_natural', 'orientação']"
+    },
+    {
+      "id": "pref_audio",
+      "form": "audio",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['som', 'audição', 'voz', 'registro_sonoro', 'percepção_auditiva']; ['som', 'fala', 'música', 'tecnologia', 'percepção', 'comunicação']"
+    },
+    {
+      "id": "pref_auto",
+      "form": "auto",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['reflexividade', 'ação_sobre_si', 'autonomia', 'autorreferência']; ['agente', 'ação', 'processo', 'identidade', 'controle', 'sujeito']"
+    },
+    {
+      "id": "pref_bem",
+      "form": "bem-",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['valoração_positiva', 'adequação', 'intensificação', 'benefício']; ['qualidade', 'estado', 'ação', 'avaliação', 'conduta', 'resultado']"
+    },
+    {
+      "id": "pref_bi",
+      "form": "bi",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['duplicidade', 'dois', 'dupla_ocorrência', 'binariedade']; ['quantidade', 'estrutura', 'ciclo', 'parte', 'repetição', 'classificação']"
+    },
+    {
+      "id": "pref_biblio",
+      "form": "biblio",
+      "type": "prefix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['livro', 'biblioteca', 'leitura', 'registro_escrito', 'acervo']; ['texto', 'livro', 'arquivo', 'conhecimento', 'leitura', 'coleção']"
+    }
+  ],
+  "sample_suffixes": [
+    {
+      "id": "suf_ada",
+      "form": "ada",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['ação', 'evento', 'golpe', 'porção', 'coletividade']"
+    },
+    {
+      "id": "suf_agem",
+      "form": "agem",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['ação', 'processo', 'resultado', 'coletividade', 'conjunto']"
+    },
+    {
+      "id": "suf_al",
+      "form": "al",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['relação', 'pertencimento', 'local', 'coletividade', 'abundância']"
+    },
+    {
+      "id": "suf_algia",
+      "form": "algia",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['dor', 'condição_patológica']"
+    },
+    {
+      "id": "suf_alha",
+      "form": "alha",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['coletividade', 'pejoração', 'depreciação']"
+    },
+    {
+      "id": "suf_ante",
+      "form": "ante",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['agente', 'participante', 'propriedade_ativa', 'processo_em_curso']"
+    },
+    {
+      "id": "suf_ar",
+      "form": "ar",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['verbalização', 'processo', 'ação', 'causação', 'relação', 'pertencimento']"
+    },
+    {
+      "id": "suf_arquia",
+      "form": "arquia",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['governo', 'sistema_de_poder', 'domínio', 'autoridade', 'organização_hierárquica']"
+    },
+    {
+      "id": "suf_aco",
+      "form": "aço",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['aumentativo', 'intensificação', 'pejoração', 'evento_coletivo']"
+    },
+    {
+      "id": "suf_bol",
+      "form": "bol",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['jogo', 'esporte', 'bola', 'atividade_coletiva']"
+    },
+    {
+      "id": "suf_cardia",
+      "form": "cardia",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['condição_cardíaca', 'ritmo_cardíaco', 'estado_fisiológico']"
+    },
+    {
+      "id": "suf_centrismo",
+      "form": "centrismo",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['centralidade', 'doutrina', 'tendência', 'orientação', 'sistema_de_referência']"
+    },
+    {
+      "id": "suf_cracia",
+      "form": "cracia",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['governo', 'sistema_de_poder', 'domínio', 'autoridade', 'organização_política']"
+    },
+    {
+      "id": "suf_centrico",
+      "form": "cêntrico",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['centralidade', 'orientação', 'foco', 'referência']"
+    },
+    {
+      "id": "suf_dor",
+      "form": "dor",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['agente', 'instrumento', 'causador', 'propriedade_ativa']"
+    },
+    {
+      "id": "suf_ecer",
+      "form": "ecer",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['verbalização', 'processo', 'mudança_de_estado', 'tornar_se', 'causação']"
+    },
+    {
+      "id": "suf_eco",
+      "form": "eco",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['diminutivo', 'pejoração', 'depreciação', 'caracterização']"
+    },
+    {
+      "id": "suf_ectomia",
+      "form": "ectomia",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['remoção', 'procedimento_cirúrgico', 'eliminação', 'intervenção_médica']"
+    },
+    {
+      "id": "suf_eiro",
+      "form": "eiro",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['agente', 'profissão', 'relação', 'pertencimento', 'origem', 'recipiente', 'abundância']"
+    },
+    {
+      "id": "suf_ejar",
+      "form": "ejar",
+      "type": "suffix",
+      "selection_weight": 1.0,
+      "semantic_hint": "['verbalização', 'ação', 'processo', 'atividade', 'movimento_iterativo']"
+    }
+  ],
+  "sample_words": [
+    {
+      "id": "word_aba",
+      "form": "aba",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "inanimado",
+        "nao_humano",
+        "entidade",
+        "objeto",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abacate",
+      "form": "abacate",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "inanimado",
+        "nao_humano",
+        "entidade",
+        "planta",
+        "alimento"
+      ]
+    },
+    {
+      "id": "word_abacaxi",
+      "form": "abacaxi",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "inanimado",
+        "nao_humano",
+        "entidade",
+        "planta",
+        "alimento"
+      ]
+    },
+    {
+      "id": "word_abada",
+      "form": "abada",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "inanimado",
+        "nao_humano",
+        "entidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abade",
+      "form": "abade",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "nao_aplicavel",
+        "humano",
+        "entidade",
+        "pessoa",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abadessa",
+      "form": "abadessa",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "nao_aplicavel",
+        "humano",
+        "entidade",
+        "pessoa",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abadia",
+      "form": "abadia",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "inanimado",
+        "nao_humano",
+        "entidade",
+        "lugar",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafadico",
+      "form": "abafadiço",
+      "type": "word",
+      "pos": "aj",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "qualidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafado",
+      "form": "abafado",
+      "type": "word",
+      "pos": "aj",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "qualidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafador",
+      "form": "abafador",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "nao_aplicavel",
+        "nao_humano",
+        "entidade",
+        "artefato",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafamento",
+      "form": "abafamento",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "evento",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafar",
+      "form": "abafar",
+      "type": "word",
+      "pos": "v",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "nao_aplicavel",
+        "acao",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abafo",
+      "form": "abafo",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "nao_aplicavel",
+        "nao_humano",
+        "entidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abaixamento",
+      "form": "abaixamento",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "evento",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abaixar",
+      "form": "abaixar",
+      "type": "word",
+      "pos": "v",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "nao_aplicavel",
+        "acao",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abajur",
+      "form": "abajur",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "nao_aplicavel",
+        "nao_humano",
+        "entidade",
+        "artefato",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abalada",
+      "form": "abalada",
+      "type": "word",
+      "pos": "n",
+      "frequency": 2.0,
+      "selection_weight": 0.35,
+      "semantic_tags": [
+        "concreto",
+        "animado",
+        "humano",
+        "entidade",
+        "pessoa",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abalado",
+      "form": "abalado",
+      "type": "word",
+      "pos": "aj",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "qualidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abalizado",
+      "form": "abalizado",
+      "type": "word",
+      "pos": "aj",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "abstrato",
+        "nao_aplicavel",
+        "nao_humano",
+        "qualidade",
+        "outro"
+      ]
+    },
+    {
+      "id": "word_abalizar",
+      "form": "abalizar",
+      "type": "word",
+      "pos": "v",
+      "frequency": 2.0,
+      "selection_weight": 0.2,
+      "semantic_tags": [
+        "nao_aplicavel",
+        "acao",
+        "outro"
+      ]
+    }
+  ]
+}

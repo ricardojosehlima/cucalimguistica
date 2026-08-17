@@ -1,0 +1,46 @@
+{
+  "day": 33,
+  "date": "2026-09-23",
+  "seed": 20260734,
+  "form": "canoísta-maléfico",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 78,
+    "wildness_index": "alto",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora solte os parafusos da categoria.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "canoísta-maléfico cria uma vizinhança lexical em que a relação interna permanece suspeita. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "canoísta",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "canoísta",
+    "componente_1_pos": "N",
+    "componente_2": "maléfico",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

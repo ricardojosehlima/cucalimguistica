@@ -1,0 +1,46 @@
+{
+  "day": 268,
+  "date": "2027-05-16",
+  "seed": 20260969,
+  "form": "troveja-benfazejo",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 71,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "baixa",
+    "semantic_humidity": "ainda controlável",
+    "category_instability": "quase normal",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora incline a palavra para fora da rotina.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "troveja-benfazejo cria uma vizinhança lexical em que a relação interna permanece suspeita. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "trovejar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "trovejar",
+    "componente_1_pos": "V",
+    "componente_2": "benfazejo",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

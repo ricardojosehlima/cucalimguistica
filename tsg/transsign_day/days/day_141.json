@@ -1,0 +1,47 @@
+{
+  "day": 141,
+  "date": "2027-01-09",
+  "seed": 20260842,
+  "form": "correntementês",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 41,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "um pouco pegajosa",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora faça o comum parecer suspeito.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "correntementês nasce de uma pressão afixal e deixa a base absorver a perturbação. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "correntemente",
+    "base_pos": "ADV",
+    "afixos": "ês",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

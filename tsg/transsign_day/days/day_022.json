@@ -1,0 +1,46 @@
+{
+  "day": 22,
+  "date": "2026-09-12",
+  "seed": 20260723,
+  "form": "supraalongar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 44,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "supraalongar nasce de uma pressão afixal e deixa a base absorver a perturbação. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "alongar",
+    "base_pos": "V",
+    "afixos": "supra",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

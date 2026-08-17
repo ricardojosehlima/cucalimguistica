@@ -1,0 +1,46 @@
+{
+  "day": 166,
+  "date": "2027-02-03",
+  "seed": 20260867,
+  "form": "ortomarcantesofia",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 10,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "ambígua",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora faça o comum parecer suspeito.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "ortomarcantesofia usa a base como superfície de contato para uma torção morfológica. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "marcante",
+    "base_pos": "ADJ",
+    "afixos": "sofia,orto",
+    "tipos_afixo": "sufixo,prefixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

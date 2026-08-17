@@ -1,0 +1,49 @@
+{
+  "day": 140,
+  "date": "2027-01-08",
+  "seed": 20260841,
+  "form": "heterogretaritivo",
+  "classification": "sopa certificada",
+  "classification_score": 92,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 18,
+    "wildness_index": "barroco",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "Há chance de erudição falsa com visibilidade moderada.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "heterogretaritivo usa a base como superfície de contato para uma torção morfológica. O resultado carrega uma densidade pseudoerudita que faz a forma parecer mais oficial do que merece. Pontos de pressão detectados: transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "gretar",
+    "base_pos": "V",
+    "afixos": "tivo,hetero",
+    "tipos_afixo": "sufixo,prefixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

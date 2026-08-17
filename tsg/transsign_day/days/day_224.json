@@ -1,0 +1,47 @@
+{
+  "day": 224,
+  "date": "2027-04-02",
+  "seed": 20260925,
+  "form": "sucumbirizar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 26,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "com risco de sufixação",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "severa",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "sucumbirizar mostra o que acontece quando a afixação insiste um pouco demais. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "sucumbir",
+    "base_pos": "V",
+    "afixos": "izar",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "V",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 113,
+  "date": "2026-12-12",
+  "seed": 20260814,
+  "form": "pássaro-de-porque",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 88,
+    "wildness_index": "alto",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "absurda",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora transforme a regra em clima.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "pássaro-de-porque se comporta como um composto que esqueceu de justificar a relação entre suas partes. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "pássaro",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "pássaro",
+    "componente_1_pos": "N",
+    "componente_2": "porque",
+    "componente_2_pos": "CONJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 37,
+  "date": "2026-09-27",
+  "seed": 20260738,
+  "form": "lideridade",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 19,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "quase transparente",
+    "category_instability": "severa",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "lideridade usa a base como superfície de contato para uma torção morfológica. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "líder",
+    "base_pos": "N",
+    "afixos": "idade",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

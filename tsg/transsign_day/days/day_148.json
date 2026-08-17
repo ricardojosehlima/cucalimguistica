@@ -1,0 +1,47 @@
+{
+  "day": 148,
+  "date": "2027-01-16",
+  "seed": 20260849,
+  "form": "extenua-grotesco",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 93,
+    "wildness_index": "alto",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora transforme a regra em clima.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "extenua-grotesco transforma a composição em um pequeno evento climático. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "extenuar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "extenuar",
+    "componente_1_pos": "V",
+    "componente_2": "grotesco",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

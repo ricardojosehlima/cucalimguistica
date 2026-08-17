@@ -1,0 +1,46 @@
+{
+  "day": 162,
+  "date": "2027-01-30",
+  "seed": 20260863,
+  "form": "mergulha-junta",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 96,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "mergulha-junta cria uma vizinhança lexical em que a relação interna permanece suspeita. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "mergulhar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "mergulhar",
+    "componente_1_pos": "V",
+    "componente_2": "junta",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

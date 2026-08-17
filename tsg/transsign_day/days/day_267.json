@@ -1,0 +1,48 @@
+{
+  "day": 267,
+  "date": "2027-05-15",
+  "seed": 20260968,
+  "form": "bibliotemporada",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 56,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "muito úmida",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "Há risco de condensação metafórica nas bordas da palavra.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora aumente a instabilidade.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "bibliotemporada preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_semântica. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "temporada",
+    "base_pos": "N",
+    "afixos": "biblio",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_semântica",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 287,
+  "date": "2027-06-04",
+  "seed": 20260988,
+  "form": "fenecericentrismo",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 31,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "fenecericentrismo preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "fenecer",
+    "base_pos": "V",
+    "afixos": "centrismo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

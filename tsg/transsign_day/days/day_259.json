@@ -1,0 +1,47 @@
+{
+  "day": 259,
+  "date": "2027-05-07",
+  "seed": 20260960,
+  "form": "conspiradorante",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "médio",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "instável",
+    "category_instability": "severa",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "conspiradorante preserva algo reconhecível enquanto desloca a forma para fora do comum. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "conspirador",
+    "base_pos": "N",
+    "afixos": "ante",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

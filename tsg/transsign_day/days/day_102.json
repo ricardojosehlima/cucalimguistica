@@ -1,0 +1,49 @@
+{
+  "day": 102,
+  "date": "2026-12-01",
+  "seed": 20260803,
+  "form": "umódromoteratoterato",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 21,
+    "wildness_index": "feral",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "absurda",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Névoa interpretativa pode se formar perto do último morfema.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora transforme a regra em clima.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "umódromoteratoterato usa a base como superfície de contato para uma torção morfológica. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial, transgressão_recursiva, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "um",
+    "base_pos": "DET",
+    "afixos": "ódromo,terato,terato",
+    "tipos_afixo": "sufixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "repetition_plus_stacking",
+    "transgressões": "transgressão_categorial,transgressão_recursiva,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

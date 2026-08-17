@@ -1,0 +1,46 @@
+{
+  "day": 2,
+  "date": "2026-08-23",
+  "seed": 20260703,
+  "form": "acaba-desterrado",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 88,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "baixa",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "um pouco torta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "acaba-desterrado transforma a composição em um pequeno evento climático. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "acabar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "acabar",
+    "componente_1_pos": "V",
+    "componente_2": "desterrado",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

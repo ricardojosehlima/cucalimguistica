@@ -1,0 +1,47 @@
+{
+  "day": 117,
+  "date": "2026-12-16",
+  "seed": 20260818,
+  "form": "tecniaem",
+  "classification": "animal",
+  "classification_score": 65,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 26,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "muito visível",
+    "semantic_humidity": "um pouco pegajosa",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora incline a palavra para fora da rotina.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "tecniaem usa a base como superfície de contato para uma torção morfológica. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "em",
+    "base_pos": "PREP",
+    "afixos": "tecnia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_only",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento",
+    "generation_attempt": 1
+  }
+}

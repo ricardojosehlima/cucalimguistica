@@ -1,0 +1,46 @@
+{
+  "day": 254,
+  "date": "2027-05-02",
+  "seed": 20260955,
+  "form": "astrosagrar",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 18,
+    "wildness_index": "baixo",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "clara",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "astrosagrar preserva algo reconhecível enquanto desloca a forma para fora do comum. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "sagrar",
+    "base_pos": "V",
+    "afixos": "astro",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

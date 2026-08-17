@@ -1,0 +1,47 @@
+{
+  "day": 255,
+  "date": "2027-05-03",
+  "seed": 20260956,
+  "form": "acirraritivo",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base.",
+    "O índice de solenidade lexical deve permanecer artificialmente alto."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora transforme a regra em clima.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "acirraritivo trata a derivação como ritual instável, não como regra pacífica. O resultado parece ter vindo de uma repartição morfológica barroca. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "acirrar",
+    "base_pos": "V",
+    "afixos": "tivo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

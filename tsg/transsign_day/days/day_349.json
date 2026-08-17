@@ -1,0 +1,46 @@
+{
+  "day": 349,
+  "date": "2027-08-05",
+  "seed": 20261050,
+  "form": "concessão-total",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 60,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "quase nula",
+    "semantic_humidity": "seca",
+    "category_instability": "quase normal",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora faça o comum parecer suspeito.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "concessão-total faz a composição parecer regra, mas com documentação incompleta. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "concessão",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "concessão",
+    "componente_1_pos": "N",
+    "componente_2": "total",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

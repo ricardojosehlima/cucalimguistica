@@ -1,0 +1,47 @@
+{
+  "day": 157,
+  "date": "2027-01-25",
+  "seed": 20260858,
+  "form": "condenaçãozura",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 7,
+    "wildness_index": "baixo",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "quase transparente",
+    "category_instability": "severa",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora incline a palavra para fora da rotina.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "condenaçãozura usa a base como superfície de contato para uma torção morfológica. A forma ainda conversa com o léxico ordinário, mas já apresenta comportamento suspeito. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "condenação",
+    "base_pos": "N",
+    "afixos": "ura",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

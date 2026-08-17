@@ -1,0 +1,46 @@
+{
+  "day": 269,
+  "date": "2027-05-17",
+  "seed": 20260970,
+  "form": "geada-castanho",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 62,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "inquieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora aumente a instabilidade.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "geada-castanho se comporta como um composto que esqueceu de justificar a relação entre suas partes. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "geada",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "geada",
+    "componente_1_pos": "N",
+    "componente_2": "castanho",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

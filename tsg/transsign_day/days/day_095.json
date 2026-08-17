@@ -1,0 +1,46 @@
+{
+  "day": 95,
+  "date": "2026-11-24",
+  "seed": 20260796,
+  "form": "pandeiretamente",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 25,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "um pouco pegajosa",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "pandeiretamente preserva algo reconhecível enquanto desloca a forma para fora do comum. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "pandeireta",
+    "base_pos": "N",
+    "afixos": "mente",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

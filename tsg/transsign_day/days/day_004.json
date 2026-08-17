@@ -1,0 +1,49 @@
+{
+  "day": 4,
+  "date": "2026-08-25",
+  "seed": 20260705,
+  "form": "dorchuva",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 46,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "ambígua",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "A pressão afixal permanece ativa ao redor da base.",
+    "Matéria com aparência técnica pode condensar em elegância desnecessária.",
+    "Recomenda-se manter gramáticas normativas em local fechado."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "dorchuva mostra o que acontece quando a afixação insiste um pouco demais. A palavra exibe solenidade artificial e instabilidade decorativa. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "chuva",
+    "base_pos": "N",
+    "afixos": "dor",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_only",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento",
+    "generation_attempt": 1
+  }
+}

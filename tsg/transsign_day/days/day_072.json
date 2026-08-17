@@ -1,0 +1,47 @@
+{
+  "day": 72,
+  "date": "2026-11-01",
+  "seed": 20260773,
+  "form": "vivático",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "sob vigilância",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "clara",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "vivático nasce de uma pressão afixal e deixa a base absorver a perturbação. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "vivo",
+    "base_pos": "ADJ",
+    "afixos": "ático",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

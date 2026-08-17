@@ -1,0 +1,47 @@
+{
+  "day": 250,
+  "date": "2027-04-28",
+  "seed": 20260951,
+  "form": "absorverância",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 41,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "repetitiva",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base.",
+    "A superfície da palavra tende a parecer mais oficial do que deveria."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "absorverância nasce de uma pressão afixal e deixa a base absorver a perturbação. A palavra ostenta uma erudição que não se responsabiliza por si mesma. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "absorver",
+    "base_pos": "V",
+    "afixos": "ância",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

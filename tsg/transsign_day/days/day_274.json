@@ -1,0 +1,47 @@
+{
+  "day": 274,
+  "date": "2027-05-22",
+  "seed": 20260975,
+  "form": "desenvolvimentitude",
+  "classification": "suspeito",
+  "classification_score": 39,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 21,
+    "wildness_index": "médio",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "quase transparente",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora faça o comum parecer suspeito.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "desenvolvimentitude aplica morfologia onde a cautela lexical comum hesitaria. O resultado permanece perto o bastante da formação comum para parecer quase inocente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "desenvolvimento",
+    "base_pos": "N",
+    "afixos": "itude",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

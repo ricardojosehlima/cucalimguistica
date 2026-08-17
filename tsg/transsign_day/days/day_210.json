@@ -1,0 +1,47 @@
+{
+  "day": 210,
+  "date": "2027-03-19",
+  "seed": 20260911,
+  "form": "raçãozágono",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 52,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "úmida",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Resíduos abstratos devem se acumular ao redor da base.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "raçãozágono transforma a borda da palavra em zona de intervenção. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "ração",
+    "base_pos": "N",
+    "afixos": "ágono",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

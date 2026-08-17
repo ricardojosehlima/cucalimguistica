@@ -1,0 +1,48 @@
+{
+  "day": 243,
+  "date": "2027-04-21",
+  "seed": 20260944,
+  "form": "desacostuma-oitavo",
+  "classification": "sopa certificada",
+  "classification_score": 94,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 98,
+    "wildness_index": "barroco",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Duas massas lexicais podem colidir sem autorização sintática.",
+    "Excesso terminológico pode se acumular em sílabas finais.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "desacostuma-oitavo encena um contato entre materiais lexicais que não estavam esperando um pelo outro. A palavra ostenta uma erudição que não se responsabiliza por si mesma. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "desacostumar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "desacostumar",
+    "componente_1_pos": "V",
+    "componente_2": "oitavo",
+    "componente_2_pos": "NUM",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

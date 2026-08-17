@@ -1,0 +1,46 @@
+{
+  "day": 303,
+  "date": "2027-06-20",
+  "seed": 20261004,
+  "form": "hortitestemunhar",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 16,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "com risco de sufixação",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora faça o comum parecer suspeito.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "hortitestemunhar usa a base como superfície de contato para uma torção morfológica. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "testemunhar",
+    "base_pos": "V",
+    "afixos": "horti",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

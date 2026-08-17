@@ -1,0 +1,46 @@
+{
+  "day": 352,
+  "date": "2027-08-08",
+  "seed": 20261053,
+  "form": "globalístico",
+  "classification": "instável",
+  "classification_score": 41,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 32,
+    "wildness_index": "médio",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "em negociação",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora permita que a forma oscile.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "globalístico aplica morfologia onde a cautela lexical comum hesitaria. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "global",
+    "base_pos": "ADJ",
+    "afixos": "ístico",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

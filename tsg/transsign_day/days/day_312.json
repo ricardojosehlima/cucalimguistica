@@ -1,0 +1,46 @@
+{
+  "day": 312,
+  "date": "2027-06-29",
+  "seed": 20261013,
+  "form": "paleoporquê",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 44,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "paleoporquê mostra o que acontece quando a afixação insiste um pouco demais. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "porquê",
+    "base_pos": "PRON",
+    "afixos": "paleo",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

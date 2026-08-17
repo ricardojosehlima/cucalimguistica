@@ -1,0 +1,47 @@
+{
+  "day": 329,
+  "date": "2027-07-16",
+  "seed": 20261030,
+  "form": "ofagia",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "instável",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "ofagia mostra o que acontece quando a afixação insiste um pouco demais. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "o",
+    "base_pos": "DET",
+    "afixos": "fagia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

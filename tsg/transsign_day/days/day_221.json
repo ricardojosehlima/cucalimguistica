@@ -1,0 +1,49 @@
+{
+  "day": 221,
+  "date": "2027-03-30",
+  "seed": 20260922,
+  "form": "acácia-anzol",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 80,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Relações internas entre palavras podem ficar mal explicadas.",
+    "O índice de solenidade lexical deve permanecer artificialmente alto.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora aumente a instabilidade.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "acácia-anzol faz a composição parecer regra, mas com documentação incompleta. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "acácia",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "acácia",
+    "componente_1_pos": "N",
+    "componente_2": "anzol",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

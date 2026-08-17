@@ -1,0 +1,47 @@
+{
+  "day": 347,
+  "date": "2027-08-03",
+  "seed": 20261048,
+  "form": "motoparticularigráfico",
+  "classification": "instável",
+  "classification_score": 56,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 13,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "severa",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "motoparticularigráfico mostra o que acontece quando a afixação insiste um pouco demais. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "particular",
+    "base_pos": "ADJ",
+    "afixos": "gráfico,moto",
+    "tipos_afixo": "sufixo,prefixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

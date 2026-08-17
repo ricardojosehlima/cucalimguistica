@@ -1,0 +1,46 @@
+{
+  "day": 9,
+  "date": "2026-08-30",
+  "seed": 20260710,
+  "form": "dúvida-o",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 76,
+    "wildness_index": "alto",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "ambígua",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora transforme a regra em clima.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "dúvida-o aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "dúvida",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "dúvida",
+    "componente_1_pos": "N",
+    "componente_2": "o",
+    "componente_2_pos": "DET",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 319,
+  "date": "2027-07-06",
+  "seed": 20261020,
+  "form": "alega-algum",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 93,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "úmida",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "O campo semântico pode ficar escorregadio no fim da tarde.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora aumente a instabilidade.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "alega-algum se comporta como um composto que esqueceu de justificar a relação entre suas partes. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "alegar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "alegar",
+    "componente_1_pos": "V",
+    "componente_2": "algum",
+    "componente_2_pos": "PRON",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

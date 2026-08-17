@@ -1,0 +1,47 @@
+{
+  "day": 354,
+  "date": "2027-08-10",
+  "seed": 20261055,
+  "form": "ouzíssimovel",
+  "classification": "animal",
+  "classification_score": 70,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 37,
+    "wildness_index": "alto",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "ouzíssimovel aplica morfologia onde a cautela lexical comum hesitaria. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "ou",
+    "base_pos": "CONJ",
+    "afixos": "íssimo,vel",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

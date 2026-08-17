@@ -1,0 +1,48 @@
+{
+  "day": 44,
+  "date": "2026-10-04",
+  "seed": 20260745,
+  "form": "sessentaciberfobiafobia",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 36,
+    "wildness_index": "feral",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "A zona final da palavra exige atenção morfológica.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "sessentaciberfobiafobia mostra o que acontece quando a afixação insiste um pouco demais. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "sessenta",
+    "base_pos": "NUM",
+    "afixos": "ciber,fobia,fobia",
+    "tipos_afixo": "prefixo,sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_stacking",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

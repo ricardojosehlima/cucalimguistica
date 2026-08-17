@@ -1,0 +1,46 @@
+{
+  "day": 296,
+  "date": "2027-06-13",
+  "seed": 20260997,
+  "form": "gostante",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 13,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "gostante mostra o que acontece quando a afixação insiste um pouco demais. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "gosto",
+    "base_pos": "N",
+    "afixos": "ante",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

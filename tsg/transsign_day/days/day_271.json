@@ -1,0 +1,47 @@
+{
+  "day": 271,
+  "date": "2027-05-19",
+  "seed": 20260972,
+  "form": "além-cansado",
+  "classification": "suspeito",
+  "classification_score": 37,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 20,
+    "wildness_index": "médio",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "seca",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "além-cansado transforma a borda da palavra em zona de intervenção. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "cansado",
+    "base_pos": "ADJ",
+    "afixos": "além-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

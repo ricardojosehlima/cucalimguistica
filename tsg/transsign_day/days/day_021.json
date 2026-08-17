@@ -1,0 +1,46 @@
+{
+  "day": 21,
+  "date": "2026-09-11",
+  "seed": 20260722,
+  "form": "batoticésimo",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 40,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "ambígua",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora faça o comum parecer suspeito.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "batoticésimo nasce de uma pressão afixal e deixa a base absorver a perturbação. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "batotice",
+    "base_pos": "N",
+    "afixos": "ésimo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "day": 198,
+  "date": "2027-03-07",
+  "seed": 20260899,
+  "form": "crescentorexia",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 28,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Afixação repetida pode produzir instabilidade local.",
+    "Pressão lexical barroca pode produzir instabilidade decorativa.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora aumente a instabilidade.",
+    "Deixe a forma escapar, mas anote o horário."
+  ],
+  "explanation": "crescentorexia usa a base como superfície de contato para uma torção morfológica. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "crescente",
+    "base_pos": "ADJ",
+    "afixos": "orexia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

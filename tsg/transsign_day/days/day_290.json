@@ -1,0 +1,46 @@
+{
+  "day": 290,
+  "date": "2027-06-07",
+  "seed": 20260991,
+  "form": "degenerarão",
+  "classification": "instável",
+  "classification_score": 41,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 46,
+    "wildness_index": "médio",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "instável",
+    "category_instability": "sob observação",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "degenerarão usa a base como superfície de contato para uma torção morfológica. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "degenerar",
+    "base_pos": "V",
+    "afixos": "ão",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

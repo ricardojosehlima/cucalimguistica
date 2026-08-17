@@ -1,0 +1,46 @@
+{
+  "day": 7,
+  "date": "2026-08-28",
+  "seed": 20260708,
+  "form": "animalésimo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 7,
+    "wildness_index": "baixo",
+    "prefix_pressure": "sob vigilância",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "seca",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "animalésimo nasce de uma pressão afixal e deixa a base absorver a perturbação. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "animal",
+    "base_pos": "N",
+    "afixos": "ésimo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

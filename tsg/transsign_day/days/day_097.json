@@ -1,0 +1,47 @@
+{
+  "day": 97,
+  "date": "2026-11-26",
+  "seed": 20260798,
+  "form": "supracofiar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 27,
+    "wildness_index": "médio",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "um pouco pegajosa",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "supracofiar transforma a borda da palavra em zona de intervenção. A forma mantém alguma disciplina, embora a estrutura esteja claramente forçada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "cofiar",
+    "base_pos": "V",
+    "afixos": "supra",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

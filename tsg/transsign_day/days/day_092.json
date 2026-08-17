@@ -1,0 +1,49 @@
+{
+  "day": 92,
+  "date": "2026-11-21",
+  "seed": 20260793,
+  "form": "senso-cônego",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 75,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "úmida",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Relações internas entre palavras podem ficar mal explicadas.",
+    "Matéria com aparência técnica pode condensar em elegância desnecessária.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "senso-cônego junta partes que cooperam apenas o suficiente para produzir uma forma. A palavra exibe solenidade artificial e instabilidade decorativa. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "senso",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "senso",
+    "componente_1_pos": "N",
+    "componente_2": "cônego",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

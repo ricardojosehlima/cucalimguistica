@@ -1,0 +1,46 @@
+{
+  "day": 126,
+  "date": "2026-12-25",
+  "seed": 20260827,
+  "form": "recém-manteiga",
+  "classification": "instável",
+  "classification_score": 57,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 38,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "recém-manteiga usa a base como superfície de contato para uma torção morfológica. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "manteiga",
+    "base_pos": "N",
+    "afixos": "recém-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

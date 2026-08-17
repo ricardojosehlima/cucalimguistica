@@ -1,0 +1,46 @@
+{
+  "day": 176,
+  "date": "2027-02-13",
+  "seed": 20260877,
+  "form": "comíssimoíssimo",
+  "classification": "instável",
+  "classification_score": 49,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 34,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "levemente deslocada",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "comíssimoíssimo mostra o que acontece quando a afixação insiste um pouco demais. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_recursiva. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "como",
+    "base_pos": "ADV",
+    "afixos": "íssimo,íssimo",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "repetition_only",
+    "transgressões": "transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

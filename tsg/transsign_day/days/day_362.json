@@ -1,0 +1,46 @@
+{
+  "day": 362,
+  "date": "2027-08-18",
+  "seed": 20261063,
+  "form": "ascenderejar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 43,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "ascenderejar nasce de uma pressão afixal e deixa a base absorver a perturbação. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "ascender",
+    "base_pos": "V",
+    "afixos": "ejar",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "V",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

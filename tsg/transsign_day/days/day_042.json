@@ -1,0 +1,48 @@
+{
+  "day": 42,
+  "date": "2026-10-02",
+  "seed": 20260743,
+  "form": "pan-engessar",
+  "classification": "sopa certificada",
+  "classification_score": 95,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 29,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida.",
+    "Matéria com aparência técnica pode condensar em elegância desnecessária.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora solte os parafusos da categoria.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "pan-engessar mostra o que acontece quando a afixação insiste um pouco demais. A palavra exibe solenidade artificial e instabilidade decorativa. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "engessar",
+    "base_pos": "V",
+    "afixos": "pan-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

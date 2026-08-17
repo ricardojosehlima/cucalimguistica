@@ -1,0 +1,49 @@
+{
+  "day": 120,
+  "date": "2026-12-19",
+  "seed": 20260821,
+  "form": "jesuzitecnia",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 14,
+    "wildness_index": "barroco",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A zona final da palavra exige atenção morfológica.",
+    "Matéria com aparência técnica pode condensar em elegância desnecessária.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "jesuzitecnia aplica morfologia onde a cautela lexical comum hesitaria. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "jesus",
+    "base_pos": "INTJ",
+    "afixos": "tecnia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

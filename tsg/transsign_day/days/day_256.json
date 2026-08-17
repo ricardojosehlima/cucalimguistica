@@ -1,0 +1,47 @@
+{
+  "day": 256,
+  "date": "2027-05-04",
+  "seed": 20260957,
+  "form": "religião-em",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 66,
+    "wildness_index": "alto",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "religião-em transforma a composição em um pequeno evento climático. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "religião",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "religião",
+    "componente_1_pos": "N",
+    "componente_2": "em",
+    "componente_2_pos": "PREP",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 87,
+  "date": "2026-11-16",
+  "seed": 20260788,
+  "form": "obscenância",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 47,
+    "wildness_index": "barroco",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "Pressão lexical barroca pode produzir instabilidade decorativa."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora transforme a regra em clima.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "obscenância transforma a borda da palavra em zona de intervenção. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "obsceno",
+    "base_pos": "ADJ",
+    "afixos": "ância",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

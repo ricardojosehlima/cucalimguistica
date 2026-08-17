@@ -1,0 +1,47 @@
+{
+  "day": 321,
+  "date": "2027-07-08",
+  "seed": 20261022,
+  "form": "resisti-soletração",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 85,
+    "wildness_index": "alto",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "úmida",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Resíduos abstratos devem se acumular ao redor da base.",
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora aumente a instabilidade.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "resisti-soletração junta partes que cooperam apenas o suficiente para produzir uma forma. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "resistir",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "resistir",
+    "componente_1_pos": "V",
+    "componente_2": "soletração",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

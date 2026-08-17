@@ -1,0 +1,47 @@
+{
+  "day": 260,
+  "date": "2027-05-08",
+  "seed": 20260961,
+  "form": "contemporaneante",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 14,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "seca",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "contemporaneante trata a derivação como ritual instável, não como regra pacífica. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "contemporâneo",
+    "base_pos": "N",
+    "afixos": "ante",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

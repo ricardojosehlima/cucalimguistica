@@ -1,0 +1,47 @@
+{
+  "day": 93,
+  "date": "2026-11-22",
+  "seed": 20260794,
+  "form": "média-de-contramedida",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 94,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "ambígua",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora solte os parafusos da categoria.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "média-de-contramedida aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "média",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "média",
+    "componente_1_pos": "N",
+    "componente_2": "contramedida",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

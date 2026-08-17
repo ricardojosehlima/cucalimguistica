@@ -1,0 +1,46 @@
+{
+  "day": 174,
+  "date": "2027-02-11",
+  "seed": 20260875,
+  "form": "hiporefestejo",
+  "classification": "animal",
+  "classification_score": 70,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 31,
+    "wildness_index": "alto",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "repetitiva",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "hiporefestejo preserva algo reconhecível enquanto desloca a forma para fora do comum. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "festejo",
+    "base_pos": "N",
+    "afixos": "re,hipo",
+    "tipos_afixo": "prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

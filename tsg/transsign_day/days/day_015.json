@@ -1,0 +1,47 @@
+{
+  "day": 15,
+  "date": "2026-09-05",
+  "seed": 20260716,
+  "form": "recém-vingança",
+  "classification": "suspeito",
+  "classification_score": 37,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 23,
+    "wildness_index": "médio",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora faça o comum parecer suspeito.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "recém-vingança usa a base como superfície de contato para uma torção morfológica. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "vingança",
+    "base_pos": "N",
+    "afixos": "recém-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

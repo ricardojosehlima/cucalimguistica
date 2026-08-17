@@ -1,0 +1,46 @@
+{
+  "day": 310,
+  "date": "2027-06-27",
+  "seed": 20261011,
+  "form": "alegriístico",
+  "classification": "instável",
+  "classification_score": 41,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 36,
+    "wildness_index": "médio",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "instável",
+    "category_instability": "visível",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora permita que a forma oscile.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "alegriístico nasce de uma pressão afixal e deixa a base absorver a perturbação. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "alegria",
+    "base_pos": "N",
+    "afixos": "ístico",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

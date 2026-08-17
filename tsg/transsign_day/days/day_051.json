@@ -1,0 +1,47 @@
+{
+  "day": 51,
+  "date": "2026-10-11",
+  "seed": 20260752,
+  "form": "reestupro",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 46,
+    "wildness_index": "médio",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "ambígua",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "reestupro usa a base como superfície de contato para uma torção morfológica. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "estupro",
+    "base_pos": "N",
+    "afixos": "re",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 121,
+  "date": "2026-12-20",
+  "seed": 20260822,
+  "form": "interpretaçãozível",
+  "classification": "instável",
+  "classification_score": 59,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 38,
+    "wildness_index": "médio",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "interpretaçãozível aplica morfologia onde a cautela lexical comum hesitaria. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "interpretação",
+    "base_pos": "N",
+    "afixos": "vel",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

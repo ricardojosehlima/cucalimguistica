@@ -1,0 +1,49 @@
+{
+  "day": 64,
+  "date": "2026-10-24",
+  "seed": 20260765,
+  "form": "contramestrecardia",
+  "classification": "sopa certificada",
+  "classification_score": 97,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 30,
+    "wildness_index": "barroco",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "úmida",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Afixação repetida pode produzir instabilidade local.",
+    "Excesso terminológico pode se acumular em sílabas finais."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "contramestrecardia mostra o que acontece quando a afixação insiste um pouco demais. A palavra ostenta uma erudição que não se responsabiliza por si mesma. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "contramestre",
+    "base_pos": "N",
+    "afixos": "cardia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

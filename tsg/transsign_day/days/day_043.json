@@ -1,0 +1,47 @@
+{
+  "day": 43,
+  "date": "2026-10-03",
+  "seed": 20260744,
+  "form": "pontualmentecardia",
+  "classification": "instável",
+  "classification_score": 59,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "severa",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "pontualmentecardia mostra o que acontece quando a afixação insiste um pouco demais. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "pontualmente",
+    "base_pos": "ADV",
+    "afixos": "cardia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

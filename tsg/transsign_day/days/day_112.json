@@ -1,0 +1,49 @@
+{
+  "day": 112,
+  "date": "2026-12-11",
+  "seed": 20260813,
+  "form": "chocolatecardiadordor",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 20,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "Afixação repetida pode produzir instabilidade local.",
+    "Formações pseudoeruditas são prováveis depois do pôr do sol.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Deixe a forma escapar, mas anote o horário."
+  ],
+  "explanation": "chocolatecardiadordor mostra o que acontece quando a afixação insiste um pouco demais. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_categorial, transgressão_recursiva, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "chocolate",
+    "base_pos": "N",
+    "afixos": "cardia,dor,dor",
+    "tipos_afixo": "sufixo,sufixo,sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "repetition_plus_stacking",
+    "transgressões": "transgressão_categorial,transgressão_recursiva,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

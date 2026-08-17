@@ -1,0 +1,46 @@
+{
+  "day": 357,
+  "date": "2027-08-13",
+  "seed": 20261058,
+  "form": "calharipatia",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 5,
+    "wildness_index": "baixo",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "ainda controlável",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "calharipatia trata a derivação como ritual instável, não como regra pacífica. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "calhar",
+    "base_pos": "V",
+    "afixos": "patia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

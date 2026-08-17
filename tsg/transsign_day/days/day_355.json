@@ -1,0 +1,46 @@
+{
+  "day": 355,
+  "date": "2027-08-11",
+  "seed": 20261056,
+  "form": "reservarístico",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 21,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "bem ventilada",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora incline a palavra para fora da rotina.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "reservarístico transforma a borda da palavra em zona de intervenção. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "reservar",
+    "base_pos": "V",
+    "afixos": "ístico",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

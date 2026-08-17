@@ -1,0 +1,48 @@
+{
+  "day": 38,
+  "date": "2026-09-28",
+  "seed": 20260739,
+  "form": "cristandade-de-manipulador",
+  "classification": "sopa certificada",
+  "classification_score": 87,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 73,
+    "wildness_index": "feral",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "Há possibilidade de acoplamento lexical repentino.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora transforme a regra em clima.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "cristandade-de-manipulador cria uma vizinhança lexical em que a relação interna permanece suspeita. O signo já exige cuidado, pois a estabilidade não está garantida. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "cristandade",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "cristandade",
+    "componente_1_pos": "N",
+    "componente_2": "manipulador",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

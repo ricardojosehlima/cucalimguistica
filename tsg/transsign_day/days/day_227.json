@@ -1,0 +1,46 @@
+{
+  "day": 227,
+  "date": "2027-04-05",
+  "seed": 20260928,
+  "form": "anarquia-de-justiça",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 98,
+    "wildness_index": "alto",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora aumente a instabilidade.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "anarquia-de-justiça aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "anarquia",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "anarquia",
+    "componente_1_pos": "N",
+    "componente_2": "justiça",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

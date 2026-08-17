@@ -1,0 +1,46 @@
+{
+  "day": 175,
+  "date": "2027-02-12",
+  "seed": 20260876,
+  "form": "extingui-imperial",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 56,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "silenciosa",
+    "semantic_humidity": "bem ventilada",
+    "category_instability": "pouco ameaçadora",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora faça o comum parecer suspeito.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "extingui-imperial junta partes que cooperam apenas o suficiente para produzir uma forma. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "extinguir",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "extinguir",
+    "componente_1_pos": "V",
+    "componente_2": "imperial",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

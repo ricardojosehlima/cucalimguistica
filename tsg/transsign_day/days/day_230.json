@@ -1,0 +1,46 @@
+{
+  "day": 230,
+  "date": "2027-04-08",
+  "seed": 20260931,
+  "form": "beija-vacina",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 64,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "baixa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora faça o comum parecer suspeito.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "beija-vacina faz a composição parecer regra, mas com documentação incompleta. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "beijar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "beijar",
+    "componente_1_pos": "V",
+    "componente_2": "vacina",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

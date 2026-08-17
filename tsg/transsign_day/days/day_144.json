@@ -1,0 +1,48 @@
+{
+  "day": 144,
+  "date": "2027-01-12",
+  "seed": 20260845,
+  "form": "audioprofundidadeil",
+  "classification": "sopa certificada",
+  "classification_score": 99,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 17,
+    "wildness_index": "feral",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "inexplicável",
+    "category_instability": "alta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "Afixação repetida pode produzir instabilidade local.",
+    "Recomenda-se manter gramáticas normativas em local fechado."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora solte os parafusos da categoria.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "audioprofundidadeil usa a base como superfície de contato para uma torção morfológica. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_semântica, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "profundidade",
+    "base_pos": "N",
+    "afixos": "audio,il",
+    "tipos_afixo": "prefixo,sufixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_semântica,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

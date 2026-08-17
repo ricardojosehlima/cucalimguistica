@@ -1,0 +1,47 @@
+{
+  "day": 96,
+  "date": "2026-11-25",
+  "seed": 20260797,
+  "form": "estatela-portanto",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 88,
+    "wildness_index": "alto",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "em redemoinho",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Conectores internos podem se comportar como se tivessem alvará."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora transforme a regra em clima.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "estatela-portanto encena um contato entre materiais lexicais que não estavam esperando um pelo outro. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "estatelar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "estatelar",
+    "componente_1_pos": "V",
+    "componente_2": "portanto",
+    "componente_2_pos": "CONJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

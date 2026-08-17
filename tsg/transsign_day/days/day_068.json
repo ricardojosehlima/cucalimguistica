@@ -1,0 +1,48 @@
+{
+  "day": 68,
+  "date": "2026-10-28",
+  "seed": 20260769,
+  "form": "retenro",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 26,
+    "wildness_index": "barroco",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "em colapso local",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base.",
+    "A superfície da palavra tende a parecer mais oficial do que deveria.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "retenro usa a base como superfície de contato para uma torção morfológica. O excesso lexical dá ao signo uma aparência de documento antigo. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "tenro",
+    "base_pos": "ADJ",
+    "afixos": "re",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 2
+  }
+}

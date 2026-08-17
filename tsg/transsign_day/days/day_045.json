@@ -1,0 +1,48 @@
+{
+  "day": 45,
+  "date": "2026-10-05",
+  "seed": 20260746,
+  "form": "coração-de-misto",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 87,
+    "wildness_index": "alto",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "úmida",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora solte os parafusos da categoria.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "coração-de-misto cria uma vizinhança lexical em que a relação interna permanece suspeita. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "coração",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "coração",
+    "componente_1_pos": "N",
+    "componente_2": "misto",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

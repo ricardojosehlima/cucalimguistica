@@ -1,0 +1,47 @@
+{
+  "day": 305,
+  "date": "2027-06-22",
+  "seed": 20261006,
+  "form": "arquiconquantomento",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 36,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "instável",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "arquiconquantomento mostra o que acontece quando a afixação insiste um pouco demais. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "conquanto",
+    "base_pos": "CONJ",
+    "afixos": "mento,arqui",
+    "tipos_afixo": "sufixo,prefixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

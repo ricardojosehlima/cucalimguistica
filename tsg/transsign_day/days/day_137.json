@@ -1,0 +1,47 @@
+{
+  "day": 137,
+  "date": "2027-01-05",
+  "seed": 20260838,
+  "form": "fotoderrubar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 27,
+    "wildness_index": "médio",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "úmida",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sentidos secundários podem surgir sem aviso prévio.",
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora incline a palavra para fora da rotina.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "fotoderrubar transforma a borda da palavra em zona de intervenção. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "derrubar",
+    "base_pos": "V",
+    "afixos": "foto",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

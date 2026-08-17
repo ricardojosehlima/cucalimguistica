@@ -1,0 +1,47 @@
+{
+  "day": 278,
+  "date": "2027-05-26",
+  "seed": 20260979,
+  "form": "equilibra-multilingue",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 97,
+    "wildness_index": "alto",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "equilibra-multilingue faz a composição parecer regra, mas com documentação incompleta. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "equilibrar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "equilibrar",
+    "componente_1_pos": "V",
+    "componente_2": "multilingue",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

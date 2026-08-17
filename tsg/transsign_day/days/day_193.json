@@ -1,0 +1,47 @@
+{
+  "day": 193,
+  "date": "2027-03-02",
+  "seed": 20260894,
+  "form": "holotrespassar",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 45,
+    "wildness_index": "médio",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "ambígua",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "holotrespassar usa a base como superfície de contato para uma torção morfológica. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "trespassar",
+    "base_pos": "V",
+    "afixos": "holo",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

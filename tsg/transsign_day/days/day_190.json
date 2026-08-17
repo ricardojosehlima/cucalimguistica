@@ -1,0 +1,47 @@
+{
+  "day": 190,
+  "date": "2027-02-27",
+  "seed": 20260891,
+  "form": "liga-de-prévio",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 86,
+    "wildness_index": "alto",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "repetitiva",
+    "semantic_humidity": "úmida",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Névoa interpretativa pode se formar perto do último morfema.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "liga-de-prévio encena um contato entre materiais lexicais que não estavam esperando um pelo outro. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "liga",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "liga",
+    "componente_1_pos": "N",
+    "componente_2": "prévio",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

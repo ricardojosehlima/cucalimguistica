@@ -1,0 +1,46 @@
+{
+  "day": 264,
+  "date": "2027-05-12",
+  "seed": 20260965,
+  "form": "elenco-incontável",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 89,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "instável",
+    "category_instability": "visível",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "elenco-incontável encena um contato entre materiais lexicais que não estavam esperando um pelo outro. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "elenco",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "elenco",
+    "componente_1_pos": "N",
+    "componente_2": "incontável",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "day": 187,
+  "date": "2027-02-24",
+  "seed": 20260888,
+  "form": "satura-catadura",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 69,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Relações internas entre palavras podem ficar mal explicadas.",
+    "O índice de solenidade lexical deve permanecer artificialmente alto.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora aumente a instabilidade.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "satura-catadura junta partes que cooperam apenas o suficiente para produzir uma forma. A palavra ostenta uma erudição que não se responsabiliza por si mesma. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "saturar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "saturar",
+    "componente_1_pos": "V",
+    "componente_2": "catadura",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

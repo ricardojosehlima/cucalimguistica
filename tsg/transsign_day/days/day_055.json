@@ -1,0 +1,46 @@
+{
+  "day": 55,
+  "date": "2026-10-15",
+  "seed": 20260756,
+  "form": "autohaver",
+  "classification": "suspeito",
+  "classification_score": 21,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 16,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "quase normal",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "normal"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "autohaver nasce de uma pressão afixal e deixa a base absorver a perturbação. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "haver",
+    "base_pos": "V",
+    "afixos": "auto",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "compatible",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

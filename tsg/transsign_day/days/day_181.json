@@ -1,0 +1,47 @@
+{
+  "day": 181,
+  "date": "2027-02-18",
+  "seed": 20260882,
+  "form": "teleamplo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 21,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "saturada",
+    "category_instability": "quieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O campo semântico pode ficar escorregadio no fim da tarde.",
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "teleamplo transforma a borda da palavra em zona de intervenção. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_semântica. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "amplo",
+    "base_pos": "ADJ",
+    "afixos": "tele",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_semântica",
+    "generation_attempt": 1
+  }
+}

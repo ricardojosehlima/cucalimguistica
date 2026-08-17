@@ -1,0 +1,46 @@
+{
+  "day": 334,
+  "date": "2027-07-21",
+  "seed": 20261035,
+  "form": "proposta-pérfido",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 78,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "baixa",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "sob observação",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora incline a palavra para fora da rotina.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "proposta-pérfido junta partes que cooperam apenas o suficiente para produzir uma forma. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "proposta",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "proposta",
+    "componente_1_pos": "N",
+    "componente_2": "pérfido",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

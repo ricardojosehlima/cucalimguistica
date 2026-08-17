@@ -1,0 +1,47 @@
+{
+  "day": 346,
+  "date": "2027-08-02",
+  "seed": 20261047,
+  "form": "cultivaralha",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 25,
+    "wildness_index": "alto",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "muito visível",
+    "semantic_humidity": "úmida",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Névoa interpretativa pode se formar perto do último morfema.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora transforme a regra em clima.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "cultivaralha nasce de uma pressão afixal e deixa a base absorver a perturbação. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "cultivar",
+    "base_pos": "V",
+    "afixos": "alha",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

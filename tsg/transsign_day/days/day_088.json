@@ -1,0 +1,49 @@
+{
+  "day": 88,
+  "date": "2026-11-17",
+  "seed": 20260789,
+  "form": "ooftalmomaniamania",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 52,
+    "wildness_index": "feral",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "sem contenção",
+    "semantic_humidity": "absurda",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "ooftalmomaniamania nasce de uma pressão afixal e deixa a base absorver a perturbação. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "o",
+    "base_pos": "DET",
+    "afixos": "oftalmo,mania,mania",
+    "tipos_afixo": "prefixo,sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "maximal",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

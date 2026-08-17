@@ -1,0 +1,47 @@
+{
+  "day": 235,
+  "date": "2027-04-13",
+  "seed": 20260936,
+  "form": "acercaviceinfrainfra",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 20,
+    "wildness_index": "feral",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Deixe a forma escapar, mas anote o horário."
+  ],
+  "explanation": "acercaviceinfrainfra usa a base como superfície de contato para uma torção morfológica. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "acerca",
+    "base_pos": "PREP",
+    "afixos": "vice,infra,infra",
+    "tipos_afixo": "prefixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_stacking",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

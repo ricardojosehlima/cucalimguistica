@@ -1,0 +1,46 @@
+{
+  "day": 283,
+  "date": "2027-05-31",
+  "seed": 20260984,
+  "form": "pároco-sem",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 76,
+    "wildness_index": "alto",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "pároco-sem aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "pároco",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "pároco",
+    "componente_1_pos": "N",
+    "componente_2": "sem",
+    "componente_2_pos": "PREP",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

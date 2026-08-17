@@ -1,0 +1,46 @@
+{
+  "day": 343,
+  "date": "2027-07-30",
+  "seed": 20261044,
+  "form": "calaridade",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 46,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "calaridade mostra o que acontece quando a afixação insiste um pouco demais. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "calar",
+    "base_pos": "V",
+    "afixos": "idade",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

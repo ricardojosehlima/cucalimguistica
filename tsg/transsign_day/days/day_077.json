@@ -1,0 +1,46 @@
+{
+  "day": 77,
+  "date": "2026-11-06",
+  "seed": 20260778,
+  "form": "furta-teoricamente",
+  "classification": "suspeito",
+  "classification_score": 36,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 64,
+    "wildness_index": "médio",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "baixa",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "discreta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "furta-teoricamente cria uma vizinhança lexical em que a relação interna permanece suspeita. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "furtar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "furtar",
+    "componente_1_pos": "V",
+    "componente_2": "teoricamente",
+    "componente_2_pos": "ADV",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

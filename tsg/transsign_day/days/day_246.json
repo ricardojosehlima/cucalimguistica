@@ -1,0 +1,46 @@
+{
+  "day": 246,
+  "date": "2027-04-24",
+  "seed": 20260947,
+  "form": "usina-poesia",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 63,
+    "wildness_index": "baixo",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "quase normal",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora faça o comum parecer suspeito.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "usina-poesia encena um contato entre materiais lexicais que não estavam esperando um pelo outro. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "usina",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "usina",
+    "componente_1_pos": "N",
+    "componente_2": "poesia",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

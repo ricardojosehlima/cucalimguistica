@@ -1,0 +1,46 @@
+{
+  "day": 111,
+  "date": "2026-12-10",
+  "seed": 20260812,
+  "form": "importanteco",
+  "classification": "suspeito",
+  "classification_score": 21,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "ainda controlável",
+    "category_instability": "sob controle aparente",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "normal"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora incline a palavra para fora da rotina.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "importanteco preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "importante",
+    "base_pos": "ADJ",
+    "afixos": "eco",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "day": 201,
+  "date": "2027-03-10",
+  "seed": 20260902,
+  "form": "tejadilho-de-intramuscular",
+  "classification": "sopa certificada",
+  "classification_score": 87,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 81,
+    "wildness_index": "feral",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "A justaposição tende a aumentar durante a tarde.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "tejadilho-de-intramuscular aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "tejadilho",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "tejadilho",
+    "componente_1_pos": "N",
+    "componente_2": "intramuscular",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

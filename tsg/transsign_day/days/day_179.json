@@ -1,0 +1,48 @@
+{
+  "day": 179,
+  "date": "2027-02-16",
+  "seed": 20260880,
+  "form": "nósalgiaíferoífero",
+  "classification": "animal",
+  "classification_score": 80,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 46,
+    "wildness_index": "alto",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "ambígua",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "nósalgiaíferoífero aplica morfologia onde a cautela lexical comum hesitaria. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "nós",
+    "base_pos": "PRON",
+    "afixos": "algia,ífero,ífero",
+    "tipos_afixo": "sufixo,sufixo,sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_stacking",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

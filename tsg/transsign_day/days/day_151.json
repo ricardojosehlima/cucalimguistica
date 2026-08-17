@@ -1,0 +1,48 @@
+{
+  "day": 151,
+  "date": "2027-01-19",
+  "seed": 20260852,
+  "form": "recém-cordoeiro",
+  "classification": "instável",
+  "classification_score": 57,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 43,
+    "wildness_index": "médio",
+    "prefix_pressure": "desconfiável",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "úmida",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "A umidade semântica pode fazer sentidos grudarem onde não deveriam.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora faça o comum parecer suspeito.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "recém-cordoeiro usa a base como superfície de contato para uma torção morfológica. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "cordoeiro",
+    "base_pos": "N",
+    "afixos": "recém-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

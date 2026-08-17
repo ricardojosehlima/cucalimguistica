@@ -1,0 +1,46 @@
+{
+  "day": 301,
+  "date": "2027-06-18",
+  "seed": 20261002,
+  "form": "cartazágono",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 15,
+    "wildness_index": "baixo",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "ainda controlável",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora incline a palavra para fora da rotina.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "cartazágono nasce de uma pressão afixal e deixa a base absorver a perturbação. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "cartaz",
+    "base_pos": "N",
+    "afixos": "ágono",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

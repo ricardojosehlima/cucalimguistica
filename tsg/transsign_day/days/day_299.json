@@ -1,0 +1,48 @@
+{
+  "day": 299,
+  "date": "2027-06-16",
+  "seed": 20261000,
+  "form": "gigadeporicida",
+  "classification": "sopa certificada",
+  "classification_score": 93,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 20,
+    "wildness_index": "feral",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Se a palavra ferver, finja que era método."
+  ],
+  "explanation": "gigadeporicida preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "depor",
+    "base_pos": "V",
+    "afixos": "giga,icida",
+    "tipos_afixo": "prefixo,sufixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

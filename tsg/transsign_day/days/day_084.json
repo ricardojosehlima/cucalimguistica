@@ -1,0 +1,46 @@
+{
+  "day": 84,
+  "date": "2026-11-13",
+  "seed": 20260785,
+  "form": "subtilezamente",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "subtilezamente usa a base como superfície de contato para uma torção morfológica. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "subtileza",
+    "base_pos": "N",
+    "afixos": "mente",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

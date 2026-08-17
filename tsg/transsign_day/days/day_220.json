@@ -1,0 +1,48 @@
+{
+  "day": 220,
+  "date": "2027-03-29",
+  "seed": 20260921,
+  "form": "eurolimiar",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 24,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "em condensação indevida",
+    "category_instability": "alta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Há risco de condensação metafórica nas bordas da palavra.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "eurolimiar usa a base como superfície de contato para uma torção morfológica. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_semântica. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "limiar",
+    "base_pos": "N",
+    "afixos": "euro",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_semântica",
+    "generation_attempt": 1
+  }
+}

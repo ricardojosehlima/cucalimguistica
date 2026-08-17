@@ -1,0 +1,48 @@
+{
+  "day": 332,
+  "date": "2027-07-19",
+  "seed": 20261033,
+  "form": "codificação-suficientemente",
+  "classification": "sopa certificada",
+  "classification_score": 87,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 100,
+    "wildness_index": "feral",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "A pressão composicional permanece ativa nas fronteiras lexicais.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "codificação-suficientemente faz a composição parecer regra, mas com documentação incompleta. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "codificação",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "codificação",
+    "componente_1_pos": "N",
+    "componente_2": "suficientemente",
+    "componente_2_pos": "ADV",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

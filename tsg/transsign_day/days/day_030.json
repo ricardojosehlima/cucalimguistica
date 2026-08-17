@@ -1,0 +1,46 @@
+{
+  "day": 30,
+  "date": "2026-09-20",
+  "seed": 20260731,
+  "form": "infinidademente",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 6,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "clara",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "infinidademente aplica morfologia onde a cautela lexical comum hesitaria. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "infinidade",
+    "base_pos": "N",
+    "afixos": "mente",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

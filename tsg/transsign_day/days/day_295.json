@@ -1,0 +1,46 @@
+{
+  "day": 295,
+  "date": "2027-06-12",
+  "seed": 20260996,
+  "form": "tentaçãomento",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 28,
+    "wildness_index": "médio",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "ambígua",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "tentaçãomento usa a base como superfície de contato para uma torção morfológica. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "tentação",
+    "base_pos": "N",
+    "afixos": "mento",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

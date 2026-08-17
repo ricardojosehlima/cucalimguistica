@@ -1,0 +1,47 @@
+{
+  "day": 58,
+  "date": "2026-10-18",
+  "seed": 20260759,
+  "form": "imprimi-capa",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 83,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "morna",
+    "semantic_humidity": "úmida",
+    "category_instability": "instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Há risco de condensação metafórica nas bordas da palavra.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "imprimi-capa junta partes que cooperam apenas o suficiente para produzir uma forma. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "imprimir",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "imprimir",
+    "componente_1_pos": "V",
+    "componente_2": "capa",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

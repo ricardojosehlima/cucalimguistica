@@ -1,0 +1,48 @@
+{
+  "day": 122,
+  "date": "2026-12-21",
+  "seed": 20260823,
+  "form": "golágono",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 45,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "com risco de sufixação",
+    "semantic_humidity": "úmida",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A umidade semântica pode fazer sentidos grudarem onde não deveriam.",
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "golágono usa a base como superfície de contato para uma torção morfológica. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "golo",
+    "base_pos": "N",
+    "afixos": "ágono",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

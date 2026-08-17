@@ -1,0 +1,46 @@
+{
+  "day": 341,
+  "date": "2027-07-28",
+  "seed": 20261042,
+  "form": "mineiro-embora",
+  "classification": "instável",
+  "classification_score": 54,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 62,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "sem grandes ocorrências",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "um pouco torta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "mineiro-embora se comporta como um composto que esqueceu de justificar a relação entre suas partes. A forma mantém alguma disciplina, embora a estrutura esteja claramente forçada. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "mineiro",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "mineiro",
+    "componente_1_pos": "N",
+    "componente_2": "embora",
+    "componente_2_pos": "CONJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

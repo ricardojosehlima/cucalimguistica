@@ -1,0 +1,46 @@
+{
+  "day": 344,
+  "date": "2027-07-31",
+  "seed": 20261045,
+  "form": "bibliocaseirengo",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 32,
+    "wildness_index": "alto",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora transforme a regra em clima.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "bibliocaseirengo transforma a borda da palavra em zona de intervenção. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "caseiro",
+    "base_pos": "ADJ",
+    "afixos": "engo,biblio",
+    "tipos_afixo": "sufixo,prefixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "day": 160,
+  "date": "2027-01-28",
+  "seed": 20260861,
+  "form": "dezassetegrafiaciberciber",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 12,
+    "wildness_index": "feral",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "em colapso local",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "A pressão afixal permanece ativa ao redor da base.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora solte os parafusos da categoria.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "dezassetegrafiaciberciber usa a base como superfície de contato para uma torção morfológica. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "dezassete",
+    "base_pos": "NUM",
+    "afixos": "grafia,ciber,ciber",
+    "tipos_afixo": "sufixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_plus_repetition",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

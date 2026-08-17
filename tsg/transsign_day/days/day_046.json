@@ -1,0 +1,47 @@
+{
+  "day": 46,
+  "date": "2026-10-06",
+  "seed": 20260747,
+  "form": "adoção-virgem",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 77,
+    "wildness_index": "alto",
+    "prefix_pressure": "persistente",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora aumente a instabilidade.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "adoção-virgem se comporta como um composto que esqueceu de justificar a relação entre suas partes. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "adoção",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "adoção",
+    "componente_1_pos": "N",
+    "componente_2": "virgem",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

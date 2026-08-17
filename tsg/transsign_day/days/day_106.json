@@ -1,0 +1,46 @@
+{
+  "day": 106,
+  "date": "2026-12-05",
+  "seed": 20260807,
+  "form": "reponto",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 7,
+    "wildness_index": "baixo",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "com risco de sufixação",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "reponto transforma a borda da palavra em zona de intervenção. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "ponto",
+    "base_pos": "N",
+    "afixos": "re",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

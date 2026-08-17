@@ -1,0 +1,48 @@
+{
+  "day": 308,
+  "date": "2027-06-25",
+  "seed": 20261009,
+  "form": "anuncia-transparente",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 78,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "repetitiva",
+    "semantic_humidity": "úmida",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Há risco de condensação metafórica nas bordas da palavra.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "anuncia-transparente junta partes que cooperam apenas o suficiente para produzir uma forma. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "anunciar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "anunciar",
+    "componente_1_pos": "V",
+    "componente_2": "transparente",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

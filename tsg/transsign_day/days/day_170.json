@@ -1,0 +1,48 @@
+{
+  "day": 170,
+  "date": "2027-02-07",
+  "seed": 20260871,
+  "form": "carabina-de-acerca",
+  "classification": "sopa certificada",
+  "classification_score": 83,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 67,
+    "wildness_index": "feral",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "Relações internas entre palavras podem ficar mal explicadas.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Afaste objetos normativos da área."
+  ],
+  "explanation": "carabina-de-acerca encena um contato entre materiais lexicais que não estavam esperando um pelo outro. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "carabina",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "carabina",
+    "componente_1_pos": "N",
+    "componente_2": "acerca",
+    "componente_2_pos": "PREP",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "day": 27,
+  "date": "2026-09-17",
+  "seed": 20260728,
+  "form": "colchete-de-frívolo",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 75,
+    "wildness_index": "alto",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "colchete-de-frívolo aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "colchete",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "colchete",
+    "componente_1_pos": "N",
+    "componente_2": "frívolo",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

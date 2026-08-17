@@ -1,0 +1,47 @@
+{
+  "day": 328,
+  "date": "2027-07-15",
+  "seed": 20261029,
+  "form": "arquiasexto",
+  "classification": "animal",
+  "classification_score": 65,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "alto",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora incline a palavra para fora da rotina.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "arquiasexto transforma a borda da palavra em zona de intervenção. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "sexto",
+    "base_pos": "NUM",
+    "afixos": "arquia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_only",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento",
+    "generation_attempt": 1
+  }
+}

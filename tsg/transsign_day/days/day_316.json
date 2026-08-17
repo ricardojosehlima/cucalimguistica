@@ -1,0 +1,46 @@
+{
+  "day": 316,
+  "date": "2027-07-03",
+  "seed": 20261017,
+  "form": "relaçãozíssimo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 22,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "clara",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "relaçãozíssimo mostra o que acontece quando a afixação insiste um pouco demais. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "relação",
+    "base_pos": "N",
+    "afixos": "íssimo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

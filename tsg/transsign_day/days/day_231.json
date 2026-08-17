@@ -1,0 +1,48 @@
+{
+  "day": 231,
+  "date": "2027-04-09",
+  "seed": 20260932,
+  "form": "sucessivolusominimini",
+  "classification": "animal",
+  "classification_score": 80,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 24,
+    "wildness_index": "alto",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "absurda",
+    "category_instability": "inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Sentidos secundários podem surgir sem aviso prévio.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "sucessivolusominimini aplica morfologia onde a cautela lexical comum hesitaria. O signo permanece legível enquanto negocia com a desordem. Pontos de pressão detectados: transgressão_semântica, transgressão_de_ordenamento, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "sucessivo",
+    "base_pos": "ADJ",
+    "afixos": "luso,mini,mini",
+    "tipos_afixo": "prefixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "ordering_plus_stacking",
+    "transgressões": "transgressão_semântica,transgressão_de_ordenamento,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

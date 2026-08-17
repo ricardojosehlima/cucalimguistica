@@ -1,0 +1,47 @@
+{
+  "day": 258,
+  "date": "2027-05-06",
+  "seed": 20260959,
+  "form": "além-desembaraçado",
+  "classification": "sopa certificada",
+  "classification_score": 86,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 57,
+    "wildness_index": "feral",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "além-desembaraçado trata a derivação como ritual instável, não como regra pacífica. A forma ainda pode ser lida, mas não sem resistência. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "desembaraçado",
+    "base_pos": "ADJ",
+    "afixos": "além-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

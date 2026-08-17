@@ -1,0 +1,46 @@
+{
+  "day": 91,
+  "date": "2026-11-20",
+  "seed": 20260792,
+  "form": "associaródromo",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 12,
+    "wildness_index": "baixo",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "bem ventilada",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "associaródromo trata a derivação como ritual instável, não como regra pacífica. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "associar",
+    "base_pos": "V",
+    "afixos": "ódromo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

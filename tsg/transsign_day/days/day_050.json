@@ -1,0 +1,46 @@
+{
+  "day": 50,
+  "date": "2026-10-10",
+  "seed": 20260751,
+  "form": "miúdos-adentro",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 91,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "silenciosa",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "sob observação",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "miúdos-adentro faz a composição parecer regra, mas com documentação incompleta. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "miúdos",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "miúdos",
+    "componente_1_pos": "N",
+    "componente_2": "adentro",
+    "componente_2_pos": "ADV",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

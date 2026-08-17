@@ -1,0 +1,46 @@
+{
+  "day": 156,
+  "date": "2027-01-24",
+  "seed": 20260857,
+  "form": "engoliripata",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 12,
+    "wildness_index": "baixo",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "engoliripata preserva algo reconhecível enquanto desloca a forma para fora do comum. A forma ainda conversa com o léxico ordinário, mas já apresenta comportamento suspeito. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "engolir",
+    "base_pos": "V",
+    "afixos": "pata",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

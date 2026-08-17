@@ -1,0 +1,49 @@
+{
+  "day": 146,
+  "date": "2027-01-14",
+  "seed": 20260847,
+  "form": "lastimararqui",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 45,
+    "wildness_index": "feral",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "úmida",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Prefixos devem avançar sobre a forma com confiança indevida.",
+    "Evite contato visual direto com a forma resultante."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora aumente a instabilidade.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "lastimararqui usa a base como superfície de contato para uma torção morfológica. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "lastimar",
+    "base_pos": "V",
+    "afixos": "arqui",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_only",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento",
+    "generation_attempt": 1
+  }
+}

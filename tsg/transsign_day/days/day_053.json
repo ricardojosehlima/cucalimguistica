@@ -1,0 +1,47 @@
+{
+  "day": 53,
+  "date": "2026-10-13",
+  "seed": 20260754,
+  "form": "participação-de-o",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 81,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "participação-de-o junta partes que cooperam apenas o suficiente para produzir uma forma. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "participação",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "participação",
+    "componente_1_pos": "N",
+    "componente_2": "o",
+    "componente_2_pos": "DET",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

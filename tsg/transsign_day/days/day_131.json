@@ -1,0 +1,47 @@
+{
+  "day": 131,
+  "date": "2026-12-30",
+  "seed": 20260832,
+  "form": "somentalgia",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 17,
+    "wildness_index": "baixo",
+    "prefix_pressure": "estável",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "quase transparente",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Adjetivos devem circular com baixa previsibilidade.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "somentalgia mostra o que acontece quando a afixação insiste um pouco demais. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "somente",
+    "base_pos": "ADV",
+    "afixos": "algia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

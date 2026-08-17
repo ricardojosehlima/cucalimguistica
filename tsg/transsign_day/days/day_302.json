@@ -1,0 +1,46 @@
+{
+  "day": 302,
+  "date": "2027-06-19",
+  "seed": 20261003,
+  "form": "promessa-gato",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 56,
+    "wildness_index": "baixo",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "baixa",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "quieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora permita que a forma oscile.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "promessa-gato se comporta como um composto que esqueceu de justificar a relação entre suas partes. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "promessa",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "promessa",
+    "componente_1_pos": "N",
+    "componente_2": "gato",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

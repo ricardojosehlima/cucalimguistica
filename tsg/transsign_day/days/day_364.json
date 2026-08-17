@@ -1,0 +1,47 @@
+{
+  "day": 364,
+  "date": "2027-08-20",
+  "seed": 20261065,
+  "form": "diferençamenteectomia",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 30,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "muito visível",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora faça o comum parecer suspeito.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "diferençamenteectomia aplica morfologia onde a cautela lexical comum hesitaria. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "diferença",
+    "base_pos": "N",
+    "afixos": "mente,ectomia",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

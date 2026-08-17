@@ -1,0 +1,48 @@
+{
+  "day": 291,
+  "date": "2027-06-08",
+  "seed": 20260992,
+  "form": "regimento-de-arlequim",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 79,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "úmida",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "regimento-de-arlequim junta partes que cooperam apenas o suficiente para produzir uma forma. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "regimento",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "regimento",
+    "componente_1_pos": "N",
+    "componente_2": "arlequim",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 217,
+  "date": "2027-03-26",
+  "seed": 20260918,
+  "form": "nudista-de-confortável",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 80,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora transforme a regra em clima.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "nudista-de-confortável faz a composição parecer regra, mas com documentação incompleta. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "nudista",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "nudista",
+    "componente_1_pos": "N",
+    "componente_2": "confortável",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "day": 276,
+  "date": "2027-05-24",
+  "seed": 20260977,
+  "form": "incêndio-de-cimeira",
+  "classification": "suspeito",
+  "classification_score": 36,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 57,
+    "wildness_index": "médio",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "discreta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora permita que a forma oscile.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "incêndio-de-cimeira faz a composição parecer regra, mas com documentação incompleta. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "incêndio",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "incêndio",
+    "componente_1_pos": "N",
+    "componente_2": "cimeira",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

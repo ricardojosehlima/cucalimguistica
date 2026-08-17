@@ -1,0 +1,46 @@
+{
+  "day": 114,
+  "date": "2026-12-13",
+  "seed": 20260815,
+  "form": "primariágono",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 10,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "com risco de sufixação",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora permita que a forma oscile.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "primariágono transforma a borda da palavra em zona de intervenção. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "primária",
+    "base_pos": "N",
+    "afixos": "ágono",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

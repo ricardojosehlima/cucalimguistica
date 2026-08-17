@@ -1,0 +1,46 @@
+{
+  "day": 71,
+  "date": "2026-10-31",
+  "seed": 20260772,
+  "form": "unipsicológico",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "inexplicável",
+    "category_instability": "moderada",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora permita que a forma oscile.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "unipsicológico usa a base como superfície de contato para uma torção morfológica. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_semântica. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "psicológico",
+    "base_pos": "ADJ",
+    "afixos": "uni",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_semântica",
+    "generation_attempt": 1
+  }
+}

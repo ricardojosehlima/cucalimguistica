@@ -1,0 +1,49 @@
+{
+  "day": 26,
+  "date": "2026-09-16",
+  "seed": 20260727,
+  "form": "resensatez",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 27,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "morfologicamente perigosa",
+    "semantic_humidity": "escorregadia",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Sufixos podem aparecer onde a base ainda não se preparou.",
+    "Formações pseudoeruditas são prováveis depois do pôr do sol.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora aumente a instabilidade.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "resensatez nasce de uma pressão afixal e deixa a base absorver a perturbação. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "sensatez",
+    "base_pos": "N",
+    "afixos": "re",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

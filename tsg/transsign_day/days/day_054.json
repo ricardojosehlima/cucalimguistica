@@ -1,0 +1,47 @@
+{
+  "day": 54,
+  "date": "2026-10-14",
+  "seed": 20260755,
+  "form": "cuidadodor",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "cuidadodor trata a derivação como ritual instável, não como regra pacífica. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "cuidado",
+    "base_pos": "N",
+    "afixos": "dor",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "day": 100,
+  "date": "2026-11-29",
+  "seed": 20260801,
+  "form": "bronzeador-ali",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 90,
+    "wildness_index": "médio",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "instável",
+    "category_instability": "sob observação",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "bronzeador-ali encena um contato entre materiais lexicais que não estavam esperando um pelo outro. A forma mantém alguma disciplina, embora a estrutura esteja claramente forçada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "bronzeador",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "bronzeador",
+    "componente_1_pos": "N",
+    "componente_2": "ali",
+    "componente_2_pos": "ADV",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

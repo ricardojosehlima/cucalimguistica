@@ -1,0 +1,47 @@
+{
+  "day": 263,
+  "date": "2027-05-11",
+  "seed": 20260964,
+  "form": "complexidade-pastilha",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 99,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "ambígua",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "complexidade-pastilha junta partes que cooperam apenas o suficiente para produzir uma forma. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "complexidade",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "complexidade",
+    "componente_1_pos": "N",
+    "componente_2": "pastilha",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

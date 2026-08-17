@@ -1,0 +1,47 @@
+{
+  "day": 363,
+  "date": "2027-08-19",
+  "seed": 20261064,
+  "form": "androprevisão",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "absurda",
+    "category_instability": "pouco ameaçadora",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A umidade semântica pode fazer sentidos grudarem onde não deveriam.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "androprevisão preserva algo reconhecível enquanto desloca a forma para fora do comum. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_semântica. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "previsão",
+    "base_pos": "N",
+    "afixos": "andro",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "violated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_semântica",
+    "generation_attempt": 1
+  }
+}

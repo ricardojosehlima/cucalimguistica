@@ -1,0 +1,46 @@
+{
+  "day": 101,
+  "date": "2026-11-30",
+  "seed": 20260802,
+  "form": "urgência-desenho",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 81,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "ambígua",
+    "category_instability": "inquieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "urgência-desenho transforma a composição em um pequeno evento climático. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "urgência",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "urgência",
+    "componente_1_pos": "N",
+    "componente_2": "desenho",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

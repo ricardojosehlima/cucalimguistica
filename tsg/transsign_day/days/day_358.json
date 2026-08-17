@@ -1,0 +1,46 @@
+{
+  "day": 358,
+  "date": "2027-08-14",
+  "seed": 20261059,
+  "form": "fortengo",
+  "classification": "instável",
+  "classification_score": 41,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 28,
+    "wildness_index": "médio",
+    "prefix_pressure": "discreta",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "um pouco pegajosa",
+    "category_instability": "sob observação",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora faça o comum parecer suspeito.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "fortengo preserva algo reconhecível enquanto desloca a forma para fora do comum. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "forte",
+    "base_pos": "ADJ",
+    "afixos": "engo",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

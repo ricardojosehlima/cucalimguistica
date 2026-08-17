@@ -1,0 +1,48 @@
+{
+  "day": 154,
+  "date": "2027-01-22",
+  "seed": 20260855,
+  "form": "explosão-igual",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 85,
+    "wildness_index": "alto",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "com tendência a empilhar",
+    "semantic_humidity": "úmida",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A umidade semântica pode fazer sentidos grudarem onde não deveriam.",
+    "Duas massas lexicais podem colidir sem autorização sintática."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora transforme a regra em clima.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "explosão-igual aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "explosão",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "explosão",
+    "componente_1_pos": "N",
+    "componente_2": "igual",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

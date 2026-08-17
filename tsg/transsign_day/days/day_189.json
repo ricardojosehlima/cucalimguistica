@@ -1,0 +1,47 @@
+{
+  "day": 189,
+  "date": "2027-02-26",
+  "seed": 20260890,
+  "form": "mimetnocentrismocentrismo",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 49,
+    "wildness_index": "feral",
+    "prefix_pressure": "fora do eixo",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora solte os parafusos da categoria.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "mimetnocentrismocentrismo aplica morfologia onde a cautela lexical comum hesitaria. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "mim",
+    "base_pos": "PRON",
+    "afixos": "etno,centrismo,centrismo",
+    "tipos_afixo": "prefixo,sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "maximal",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "day": 25,
+  "date": "2026-09-15",
+  "seed": 20260726,
+  "form": "criminalice",
+  "classification": "suspeito",
+  "classification_score": 21,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 11,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "contida por enquanto",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "pouco ameaçadora",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "normal"
+  },
+  "forecast_lines": [
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora incline a palavra para fora da rotina.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "criminalice usa a base como superfície de contato para uma torção morfológica. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "criminal",
+    "base_pos": "ADJ",
+    "afixos": "ice",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

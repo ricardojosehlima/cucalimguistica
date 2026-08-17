@@ -1,0 +1,48 @@
+{
+  "day": 115,
+  "date": "2026-12-14",
+  "seed": 20260816,
+  "form": "quinzeologiaésimoésimo",
+  "classification": "sopa certificada",
+  "classification_score": 87,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 53,
+    "wildness_index": "feral",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "visivelmente instável",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A pressão afixal permanece ativa ao redor da base.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora transforme a regra em clima.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "quinzeologiaésimoésimo transforma a borda da palavra em zona de intervenção. A forma se aproxima do caos mantendo uma espécie de compostura. Pontos de pressão detectados: transgressão_de_ordenamento, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "quinze",
+    "base_pos": "NUM",
+    "afixos": "ologia,ésimo,ésimo",
+    "tipos_afixo": "sufixo,sufixo,sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "ordering_plus_repetition",
+    "transgressões": "transgressão_de_ordenamento,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

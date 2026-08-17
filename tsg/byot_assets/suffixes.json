@@ -1,0 +1,681 @@
+[
+  {
+    "id": "suf_ada",
+    "form": "ada",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ação', 'evento', 'golpe', 'porção', 'coletividade']"
+  },
+  {
+    "id": "suf_agem",
+    "form": "agem",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ação', 'processo', 'resultado', 'coletividade', 'conjunto']"
+  },
+  {
+    "id": "suf_al",
+    "form": "al",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'local', 'coletividade', 'abundância']"
+  },
+  {
+    "id": "suf_algia",
+    "form": "algia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['dor', 'condição_patológica']"
+  },
+  {
+    "id": "suf_alha",
+    "form": "alha",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['coletividade', 'pejoração', 'depreciação']"
+  },
+  {
+    "id": "suf_ante",
+    "form": "ante",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['agente', 'participante', 'propriedade_ativa', 'processo_em_curso']"
+  },
+  {
+    "id": "suf_ar",
+    "form": "ar",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['verbalização', 'processo', 'ação', 'causação', 'relação', 'pertencimento']"
+  },
+  {
+    "id": "suf_arquia",
+    "form": "arquia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['governo', 'sistema_de_poder', 'domínio', 'autoridade', 'organização_hierárquica']"
+  },
+  {
+    "id": "suf_aco",
+    "form": "aço",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['aumentativo', 'intensificação', 'pejoração', 'evento_coletivo']"
+  },
+  {
+    "id": "suf_bol",
+    "form": "bol",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['jogo', 'esporte', 'bola', 'atividade_coletiva']"
+  },
+  {
+    "id": "suf_cardia",
+    "form": "cardia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['condição_cardíaca', 'ritmo_cardíaco', 'estado_fisiológico']"
+  },
+  {
+    "id": "suf_centrismo",
+    "form": "centrismo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['centralidade', 'doutrina', 'tendência', 'orientação', 'sistema_de_referência']"
+  },
+  {
+    "id": "suf_cracia",
+    "form": "cracia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['governo', 'sistema_de_poder', 'domínio', 'autoridade', 'organização_política']"
+  },
+  {
+    "id": "suf_centrico",
+    "form": "cêntrico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['centralidade', 'orientação', 'foco', 'referência']"
+  },
+  {
+    "id": "suf_dor",
+    "form": "dor",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['agente', 'instrumento', 'causador', 'propriedade_ativa']"
+  },
+  {
+    "id": "suf_ecer",
+    "form": "ecer",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['verbalização', 'processo', 'mudança_de_estado', 'tornar_se', 'causação']"
+  },
+  {
+    "id": "suf_eco",
+    "form": "eco",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['diminutivo', 'pejoração', 'depreciação', 'caracterização']"
+  },
+  {
+    "id": "suf_ectomia",
+    "form": "ectomia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['remoção', 'procedimento_cirúrgico', 'eliminação', 'intervenção_médica']"
+  },
+  {
+    "id": "suf_eiro",
+    "form": "eiro",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['agente', 'profissão', 'relação', 'pertencimento', 'origem', 'recipiente', 'abundância']"
+  },
+  {
+    "id": "suf_ejar",
+    "form": "ejar",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['verbalização', 'ação', 'processo', 'atividade', 'movimento_iterativo']"
+  },
+  {
+    "id": "suf_engo",
+    "form": "engo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'origem', 'tendência', 'caracterização']"
+  },
+  {
+    "id": "suf_ense",
+    "form": "ense",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['origem', 'gentílico', 'pertencimento', 'relação']"
+  },
+  {
+    "id": "suf_eta",
+    "form": "eta",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['diminutivo', 'agente', 'instrumento', 'caracterização', 'pejoração']"
+  },
+  {
+    "id": "suf_ete",
+    "form": "ete",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['diminutivo', 'agente', 'instrumento', 'objeto', 'pejoração']"
+  },
+  {
+    "id": "suf_fagia",
+    "form": "fagia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['alimentação', 'ingestão', 'consumo', 'prática']"
+  },
+  {
+    "id": "suf_filia",
+    "form": "filia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['atração', 'afinidade', 'preferência', 'desejo', 'tendência']"
+  },
+  {
+    "id": "suf_fobia",
+    "form": "fobia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['aversão', 'medo', 'rejeição', 'hostilidade']"
+  },
+  {
+    "id": "suf_fone",
+    "form": "fone",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['som', 'voz', 'dispositivo', 'transmissão', 'recepção']"
+  },
+  {
+    "id": "suf_fobico",
+    "form": "fóbico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['aversão', 'medo', 'rejeição', 'hostilidade', 'caracterização']"
+  },
+  {
+    "id": "suf_gamia",
+    "form": "gamia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['união', 'casamento', 'reprodução', 'relação_social', 'sistema_de_acasalamento']"
+  },
+  {
+    "id": "suf_grafia",
+    "form": "grafia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['escrita', 'registro', 'representação', 'descrição', 'sistema_gráfico']"
+  },
+  {
+    "id": "suf_grafico",
+    "form": "gráfico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['representação', 'registro', 'visualização', 'descrição', 'relação_gráfica']"
+  },
+  {
+    "id": "suf_iatria",
+    "form": "iatria",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['tratamento', 'especialidade_médica', 'cuidado', 'intervenção_médica']"
+  },
+  {
+    "id": "suf_ice",
+    "form": "ice",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'qualidade', 'estado', 'comportamento', 'pejoração']"
+  },
+  {
+    "id": "suf_icida",
+    "form": "icida",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['agente_destruidor', 'eliminação', 'morte', 'causação']"
+  },
+  {
+    "id": "suf_icidio",
+    "form": "icídio",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ato_de_matar', 'morte', 'eliminação', 'evento_letal']"
+  },
+  {
+    "id": "suf_idade",
+    "form": "idade",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'qualidade', 'estado', 'propriedade']"
+  },
+  {
+    "id": "suf_idao",
+    "form": "idão",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'qualidade', 'estado', 'propriedade', 'extensão']"
+  },
+  {
+    "id": "suf_ificar",
+    "form": "ificar",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['verbalização', 'causação', 'transformação', 'processo', 'tornar']"
+  },
+  {
+    "id": "suf_il",
+    "form": "il",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['local', 'abrigo', 'recinto', 'contenção', 'animal']"
+  },
+  {
+    "id": "suf_inho",
+    "form": "inho",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['diminutivo', 'afetividade', 'atenuação', 'intensificação', 'aproximação']"
+  },
+  {
+    "id": "suf_ismo",
+    "form": "ismo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['doutrina', 'sistema', 'tendência', 'estilo', 'prática', 'condição']"
+  },
+  {
+    "id": "suf_ista",
+    "form": "ista",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['agente', 'adepto', 'profissão', 'especialista', 'relação', 'pertencimento']"
+  },
+  {
+    "id": "suf_ita",
+    "form": "ita",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['origem', 'gentílico', 'pertencimento', 'adepto', 'mineral']"
+  },
+  {
+    "id": "suf_itude",
+    "form": "itude",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'qualidade', 'estado', 'propriedade']"
+  },
+  {
+    "id": "suf_izar",
+    "form": "izar",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['verbalização', 'causação', 'transformação', 'processo', 'tornar', 'aproximação']"
+  },
+  {
+    "id": "suf_landia",
+    "form": "lândia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['local', 'território', 'país_imaginário', 'espaço_associado', 'pertencimento']"
+  },
+  {
+    "id": "suf_mancia",
+    "form": "mancia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['adivinhação', 'previsão', 'prática_divinatória', 'interpretação_simbólica']"
+  },
+  {
+    "id": "suf_mania",
+    "form": "mania",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['obsessão', 'compulsão', 'fixação', 'atração_excessiva', 'prática_recorrente']"
+  },
+  {
+    "id": "suf_mente",
+    "form": "mente",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['adverbialização', 'modo', 'maneira', 'intensificação', 'atitude']"
+  },
+  {
+    "id": "suf_mento",
+    "form": "mento",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ação', 'processo', 'resultado', 'evento', 'estado']"
+  },
+  {
+    "id": "suf_morfo",
+    "form": "morfo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['forma', 'semelhança', 'configuração', 'aparência', 'estrutura']"
+  },
+  {
+    "id": "suf_metrico",
+    "form": "métrico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['medida', 'mensuração', 'relação', 'proporção', 'sistema_de_medida']"
+  },
+  {
+    "id": "suf_nauta",
+    "form": "nauta",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['navegador', 'explorador', 'viajante', 'agente', 'deslocamento']"
+  },
+  {
+    "id": "suf_nomia",
+    "form": "nomia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['sistema', 'organização', 'classificação', 'lei', 'campo_de_saber']"
+  },
+  {
+    "id": "suf_oca",
+    "form": "oca",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['origem', 'gentílico', 'pertencimento', 'relação_local', 'caracterização']"
+  },
+  {
+    "id": "suf_olatria",
+    "form": "olatria",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['adoração', 'veneração', 'culto', 'devoção']"
+  },
+  {
+    "id": "suf_ologia",
+    "form": "ologia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['estudo', 'ciência', 'campo_de_saber', 'discurso', 'teoria']"
+  },
+  {
+    "id": "suf_ologista",
+    "form": "ologista",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['especialista', 'profissão', 'estudioso', 'agente', 'campo_de_saber']"
+  },
+  {
+    "id": "suf_ologico",
+    "form": "ológico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'campo_de_saber', 'caracterização', 'propriedade']"
+  },
+  {
+    "id": "suf_onimia",
+    "form": "onímia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['nomeação', 'relação_nominal', 'sistema_de_nomes', 'classificação_lexical', 'identificação']"
+  },
+  {
+    "id": "suf_orexia",
+    "form": "orexia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['apetite', 'ingestão', 'comportamento_alimentar', 'compulsão', 'condição_patológica']"
+  },
+  {
+    "id": "suf_ose",
+    "form": "ose",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['condição_patológica', 'processo', 'estado', 'doença', 'alteração']"
+  },
+  {
+    "id": "suf_oso",
+    "form": "oso",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abundância', 'posse', 'presença', 'qualidade', 'caracterização']"
+  },
+  {
+    "id": "suf_pata",
+    "form": "pata",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['condição_patológica', 'pessoa_afetada', 'perfil', 'tendência', 'caracterização']"
+  },
+  {
+    "id": "suf_patia",
+    "form": "patia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['condição_patológica', 'doença', 'afecção', 'sentimento', 'disposição']"
+  },
+  {
+    "id": "suf_plastia",
+    "form": "plastia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['modelagem', 'reconstrução', 'procedimento_cirúrgico', 'modificação', 'intervenção_médica']"
+  },
+  {
+    "id": "suf_ria",
+    "form": "ria",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['local', 'estabelecimento', 'atividade', 'comércio', 'prática']"
+  },
+  {
+    "id": "suf_scopio",
+    "form": "scópio",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['instrumento', 'observação', 'visualização', 'exame', 'mediação_visual']"
+  },
+  {
+    "id": "suf_sofia",
+    "form": "sofia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['saber', 'conhecimento', 'doutrina', 'teoria', 'campo_de_saber']"
+  },
+  {
+    "id": "suf_ssauro",
+    "form": "ssauro",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['animal', 'réptil', 'dinossauro', 'ser_vivo', 'forma_animal']"
+  },
+  {
+    "id": "suf_teca",
+    "form": "teca",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['coleção', 'acervo', 'arquivo', 'local', 'armazenamento']"
+  },
+  {
+    "id": "suf_tecnia",
+    "form": "tecnia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['técnica', 'prática', 'procedimento', 'arte', 'campo_aplicado']"
+  },
+  {
+    "id": "suf_tipia",
+    "form": "tipia",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['tipo', 'padrão', 'forma', 'classificação', 'configuração']"
+  },
+  {
+    "id": "suf_tivo",
+    "form": "tivo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'função', 'capacidade', 'tendência', 'propriedade_ativa']"
+  },
+  {
+    "id": "suf_udo",
+    "form": "udo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abundância', 'posse', 'saliência', 'caracterização', 'pejoração']"
+  },
+  {
+    "id": "suf_ura",
+    "form": "ura",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'qualidade', 'estado', 'resultado', 'propriedade']"
+  },
+  {
+    "id": "suf_vel",
+    "form": "vel",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['possibilidade', 'potencialidade', 'passividade', 'capacidade', 'disposição']"
+  },
+  {
+    "id": "suf_agono",
+    "form": "ágono",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ângulo', 'figura_geométrica', 'forma', 'configuração_espacial']"
+  },
+  {
+    "id": "suf_ario",
+    "form": "ário",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'agente', 'profissão', 'local', 'coletividade']"
+  },
+  {
+    "id": "suf_atico",
+    "form": "ático",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'propriedade', 'caracterização']"
+  },
+  {
+    "id": "suf_ancia",
+    "form": "ância",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'estado', 'qualidade', 'propriedade']"
+  },
+  {
+    "id": "suf_ao",
+    "form": "ão",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['aumentativo', 'intensificação', 'pejoração', 'agente', 'evento', 'resultado']"
+  },
+  {
+    "id": "suf_cao",
+    "form": "ção",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ação', 'processo', 'resultado', 'evento', 'abstração']"
+  },
+  {
+    "id": "suf_esimo",
+    "form": "ésimo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['ordem', 'posição', 'fração', 'quantificação']"
+  },
+  {
+    "id": "suf_encia",
+    "form": "ência",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['abstração', 'estado', 'qualidade', 'propriedade', 'processo']"
+  },
+  {
+    "id": "suf_es",
+    "form": "ês",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['origem', 'gentílico', 'pertencimento', 'idioma', 'relação']"
+  },
+  {
+    "id": "suf_ifero",
+    "form": "ífero",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['portador', 'produtor', 'contenção', 'geração', 'relação']"
+  },
+  {
+    "id": "suf_issimo",
+    "form": "íssimo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['superlativo', 'intensificação', 'grau_elevado', 'ênfase']"
+  },
+  {
+    "id": "suf_istico",
+    "form": "ístico",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['relação', 'pertencimento', 'caracterização', 'propriedade', 'estilo']"
+  },
+  {
+    "id": "suf_odromo",
+    "form": "ódromo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['local', 'trajeto', 'espaço_funcional', 'atividade_específica']"
+  },
+  {
+    "id": "suf_oide",
+    "form": "óide",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['semelhança', 'aproximação', 'aparência', 'tendência', 'pejoração']"
+  },
+  {
+    "id": "suf_olatra",
+    "form": "ólatra",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['adorador', 'adepto', 'veneração', 'culto', 'dependência']"
+  },
+  {
+    "id": "suf_ologo",
+    "form": "ólogo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['especialista', 'profissão', 'estudioso', 'agente', 'campo_de_saber']"
+  },
+  {
+    "id": "suf_opolis",
+    "form": "ópolis",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['cidade', 'centro_urbano', 'território', 'organização_política', 'espaço_social']"
+  },
+  {
+    "id": "suf_omano",
+    "form": "ômano",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['obsessão', 'compulsão', 'dependência', 'fixação', 'caracterização']"
+  },
+  {
+    "id": "suf_onimo",
+    "form": "ônimo",
+    "type": "suffix",
+    "selection_weight": 1.0,
+    "semantic_hint": "['nomeação', 'relação_nominal', 'identificação', 'equivalência', 'classificação_lexical']"
+  }
+]

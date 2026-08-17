@@ -1,0 +1,47 @@
+{
+  "day": 29,
+  "date": "2026-09-19",
+  "seed": 20260730,
+  "form": "segunda-feira-favorito",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 74,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "úmida",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora permita que o sentido escorregue sem cair completamente.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "segunda-feira-favorito encena um contato entre materiais lexicais que não estavam esperando um pelo outro. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "segunda-feira",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "segunda-feira",
+    "componente_1_pos": "N",
+    "componente_2": "favorito",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

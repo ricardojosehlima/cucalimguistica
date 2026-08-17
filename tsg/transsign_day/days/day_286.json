@@ -1,0 +1,49 @@
+{
+  "day": 286,
+  "date": "2027-06-03",
+  "seed": 20260987,
+  "form": "conservador-forja",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 94,
+    "wildness_index": "barroco",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "úmida",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Conectores internos podem se comportar como se tivessem alvará.",
+    "Formações pseudoeruditas são prováveis depois do pôr do sol."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora transforme a regra em clima.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "conservador-forja faz a composição parecer regra, mas com documentação incompleta. A palavra ostenta uma erudição que não se responsabiliza por si mesma. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "conservador",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "conservador",
+    "componente_1_pos": "N",
+    "componente_2": "forja",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "day": 199,
+  "date": "2027-03-08",
+  "seed": 20260900,
+  "form": "varejo-sofrível",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 86,
+    "wildness_index": "alto",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "muito visível",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "Conectores internos podem se comportar como se tivessem alvará."
+  ],
+  "event_lines": [
+    "Coloque dois signos em colisão controlada.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "varejo-sofrível se comporta como um composto que esqueceu de justificar a relação entre suas partes. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "varejo",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "varejo",
+    "componente_1_pos": "N",
+    "componente_2": "sofrível",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

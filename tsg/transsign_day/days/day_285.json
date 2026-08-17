@@ -1,0 +1,46 @@
+{
+  "day": 285,
+  "date": "2027-06-02",
+  "seed": 20260986,
+  "form": "exporipataódromo",
+  "classification": "animal",
+  "classification_score": 70,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 41,
+    "wildness_index": "alto",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "ambígua",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "exporipataódromo usa a base como superfície de contato para uma torção morfológica. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_categorial, transgressão_por_empilhamento. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "expor",
+    "base_pos": "V",
+    "afixos": "pata,ódromo",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "stacking_only",
+    "transgressões": "transgressão_categorial,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

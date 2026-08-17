@@ -1,0 +1,47 @@
+{
+  "day": 289,
+  "date": "2027-06-06",
+  "seed": 20260990,
+  "form": "artifício-em",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 83,
+    "wildness_index": "alto",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "alta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Categorias gramaticais entram em estado de alerta.",
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "artifício-em transforma a composição em um pequeno evento climático. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "artifício",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "artifício",
+    "componente_1_pos": "N",
+    "componente_2": "em",
+    "componente_2_pos": "PREP",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

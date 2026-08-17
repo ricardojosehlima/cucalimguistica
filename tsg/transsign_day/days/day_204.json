@@ -1,0 +1,46 @@
+{
+  "day": 204,
+  "date": "2027-03-13",
+  "seed": 20260905,
+  "form": "avivarário",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "moderada",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "avivarário preserva algo reconhecível enquanto desloca a forma para fora do comum. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "avivar",
+    "base_pos": "V",
+    "afixos": "ário",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

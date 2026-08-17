@@ -1,0 +1,47 @@
+{
+  "day": 288,
+  "date": "2027-06-05",
+  "seed": 20260989,
+  "form": "bolazístico",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 32,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Afixação repetida pode produzir instabilidade local."
+  ],
+  "event_lines": [
+    "Aplique morfologia como quem testa uma porta proibida.",
+    "Agora dobre ligeiramente a expectativa.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "bolazístico preserva algo reconhecível enquanto desloca a forma para fora do comum. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "bolas",
+    "base_pos": "INTJ",
+    "afixos": "ístico",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

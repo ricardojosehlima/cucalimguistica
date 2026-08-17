@@ -1,0 +1,47 @@
+{
+  "day": 241,
+  "date": "2027-04-19",
+  "seed": 20260942,
+  "form": "quimono-geral",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 91,
+    "wildness_index": "médio",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "úmida",
+    "category_instability": "instável",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Há risco de condensação metafórica nas bordas da palavra.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "quimono-geral cria uma vizinhança lexical em que a relação interna permanece suspeita. A construção mostra tensão suficiente para perder a inocência. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "quimono",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "quimono",
+    "componente_1_pos": "N",
+    "componente_2": "geral",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

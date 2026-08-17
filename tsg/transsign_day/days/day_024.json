@@ -1,0 +1,48 @@
+{
+  "day": 24,
+  "date": "2026-09-14",
+  "seed": 20260725,
+  "form": "repetirmesogigagiga",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 27,
+    "wildness_index": "feral",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "em colapso local",
+    "semantic_humidity": "absurda",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "O campo semântico pode ficar escorregadio no fim da tarde.",
+    "O contato entre base e afixo deve permanecer suspeito.",
+    "Condições de sopa certificada podem afetar palavras próximas."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora solte os parafusos da categoria.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "repetirmesogigagiga aplica morfologia onde a cautela lexical comum hesitaria. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento, transgressão_recursiva, transgressão_por_empilhamento. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "repetir",
+    "base_pos": "V",
+    "afixos": "meso,giga,giga",
+    "tipos_afixo": "prefixo,prefixo,prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "maximal",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento,transgressão_recursiva,transgressão_por_empilhamento",
+    "generation_attempt": 1
+  }
+}

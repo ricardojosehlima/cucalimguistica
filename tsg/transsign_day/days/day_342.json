@@ -1,0 +1,46 @@
+{
+  "day": 342,
+  "date": "2027-07-29",
+  "seed": 20261043,
+  "form": "sem-optar",
+  "classification": "instável",
+  "classification_score": 57,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "médio",
+    "prefix_pressure": "irregular",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora incline a palavra para fora da rotina.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "sem-optar transforma a borda da palavra em zona de intervenção. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "optar",
+    "base_pos": "V",
+    "afixos": "sem-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

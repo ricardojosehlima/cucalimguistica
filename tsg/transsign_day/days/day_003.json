@@ -1,0 +1,46 @@
+{
+  "day": 3,
+  "date": "2026-08-24",
+  "seed": 20260704,
+  "form": "contornarinho",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 48,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "muito visível",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora aumente a instabilidade.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "contornarinho nasce de uma pressão afixal e deixa a base absorver a perturbação. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "contornar",
+    "base_pos": "V",
+    "afixos": "inho",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

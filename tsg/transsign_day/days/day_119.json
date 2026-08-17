@@ -1,0 +1,48 @@
+{
+  "day": 119,
+  "date": "2026-12-18",
+  "seed": 20260820,
+  "form": "tacitamentificar",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 42,
+    "wildness_index": "barroco",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "excessivamente interpretável",
+    "category_instability": "gramaticalmente inquieta",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou.",
+    "O índice de solenidade lexical deve permanecer artificialmente alto.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora transforme a regra em clima.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "tacitamentificar preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado carrega uma densidade pseudoerudita que faz a forma parecer mais oficial do que merece. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "tacitamente",
+    "base_pos": "ADV",
+    "afixos": "ificar",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "V",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

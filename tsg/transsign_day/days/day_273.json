@@ -1,0 +1,47 @@
+{
+  "day": 273,
+  "date": "2027-05-21",
+  "seed": 20260974,
+  "form": "inoh",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 10,
+    "wildness_index": "baixo",
+    "prefix_pressure": "sob vigilância",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "quase transparente",
+    "category_instability": "tempestade categorial",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora incline a palavra para fora da rotina.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "inoh trata a derivação como ritual instável, não como regra pacífica. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "oh",
+    "base_pos": "INTJ",
+    "afixos": "in",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

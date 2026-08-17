@@ -1,0 +1,47 @@
+{
+  "day": 28,
+  "date": "2026-09-18",
+  "seed": 20260729,
+  "form": "fedor-ai",
+  "classification": "animal",
+  "classification_score": 77,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 93,
+    "wildness_index": "alto",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "severa",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "Há possibilidade de acoplamento lexical repentino."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora solte os parafusos da categoria.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "fedor-ai encena um contato entre materiais lexicais que não estavam esperando um pelo outro. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "fedor",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "fedor",
+    "componente_1_pos": "N",
+    "componente_2": "ai",
+    "componente_2_pos": "INTJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

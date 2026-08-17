@@ -1,0 +1,46 @@
+{
+  "day": 223,
+  "date": "2027-04-01",
+  "seed": 20260924,
+  "form": "auxilia-renovador",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 55,
+    "wildness_index": "baixo",
+    "prefix_pressure": "sob vigilância",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "bem ventilada",
+    "category_instability": "pouco ameaçadora",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "auxilia-renovador junta partes que cooperam apenas o suficiente para produzir uma forma. Há transgressão leve, do tipo que entra pela porta da frente. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "auxiliar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "auxiliar",
+    "componente_1_pos": "V",
+    "componente_2": "renovador",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

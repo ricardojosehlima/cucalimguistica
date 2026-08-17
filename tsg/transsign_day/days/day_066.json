@@ -1,0 +1,46 @@
+{
+  "day": 66,
+  "date": "2026-10-26",
+  "seed": 20260767,
+  "form": "transbordo-de-funcionário",
+  "classification": "instável",
+  "classification_score": 44,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 69,
+    "wildness_index": "médio",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "estável",
+    "semantic_humidity": "difícil de secar",
+    "category_instability": "levemente deslocada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "transbordo-de-funcionário junta partes que cooperam apenas o suficiente para produzir uma forma. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "transbordo",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "transbordo",
+    "componente_1_pos": "N",
+    "componente_2": "funcionário",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

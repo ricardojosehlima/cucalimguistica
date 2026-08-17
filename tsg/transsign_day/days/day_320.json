@@ -1,0 +1,47 @@
+{
+  "day": 320,
+  "date": "2027-07-07",
+  "seed": 20261021,
+  "form": "inho",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 39,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "intermitente",
+    "semantic_humidity": "em suspensão",
+    "category_instability": "severa",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Prefixos devem avançar sobre a forma com confiança indevida."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora incline a palavra para fora da rotina.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "inho trata a derivação como ritual instável, não como regra pacífica. O desvio é controlado, como uma infração escrita em letra bonita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "o",
+    "base_pos": "DET",
+    "afixos": "inho",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ,ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "day": 18,
+  "date": "2026-09-08",
+  "seed": 20260719,
+  "form": "europsiu",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 30,
+    "wildness_index": "barroco",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "ambígua",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida.",
+    "Pressão lexical barroca pode produzir instabilidade decorativa.",
+    "Morfemas desacompanhados podem começar a se empilhar espontaneamente."
+  ],
+  "event_lines": [
+    "Pegue uma base estável e adicione uma suspeita derivacional.",
+    "Agora pressione a forma até ela parecer técnica demais.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "europsiu trata a derivação como ritual instável, não como regra pacífica. A palavra exibe solenidade artificial e instabilidade decorativa. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "psiu",
+    "base_pos": "INTJ",
+    "afixos": "euro",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

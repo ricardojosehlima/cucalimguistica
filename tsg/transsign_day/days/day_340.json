@@ -1,0 +1,46 @@
+{
+  "day": 340,
+  "date": "2027-07-27",
+  "seed": 20261041,
+  "form": "declara-indutivo",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 98,
+    "wildness_index": "alto",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "inquieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora transforme a regra em clima.",
+    "Interrompa antes da sopa total."
+  ],
+  "explanation": "declara-indutivo cria uma vizinhança lexical em que a relação interna permanece suspeita. A palavra parece funcional, embora venha de uma zona lexical pouco segura. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "declarar",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "declarar",
+    "componente_1_pos": "V",
+    "componente_2": "indutivo",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

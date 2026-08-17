@@ -1,0 +1,46 @@
+{
+  "day": 105,
+  "date": "2026-12-04",
+  "seed": 20260806,
+  "form": "permeavelalha",
+  "classification": "instável",
+  "classification_score": 41,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 28,
+    "wildness_index": "médio",
+    "prefix_pressure": "levemente ascendente",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "instável",
+    "category_instability": "moderada",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora incline a palavra para fora da rotina.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "permeavelalha preserva algo reconhecível enquanto desloca a forma para fora do comum. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_não_detectada. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "permeável",
+    "base_pos": "ADJ",
+    "afixos": "alha",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "compatible",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_não_detectada",
+    "generation_attempt": 1
+  }
+}

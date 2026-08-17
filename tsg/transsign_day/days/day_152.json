@@ -1,0 +1,49 @@
+{
+  "day": 152,
+  "date": "2027-01-20",
+  "seed": 20260853,
+  "form": "cozero",
+  "classification": "sopa certificada",
+  "classification_score": 91,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 48,
+    "wildness_index": "barroco",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "formadora de sopa",
+    "semantic_humidity": "absurda",
+    "category_instability": "sem licença",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Frentes nominais podem escorregar para território adjetival.",
+    "A interpretação deve exigir guarda-chuva conceitual.",
+    "Prefixos devem avançar sobre a forma com confiança indevida.",
+    "Há chance de erudição falsa com visibilidade moderada."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora solte os parafusos da categoria.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "cozero aplica morfologia onde a cautela lexical comum hesitaria. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "zero",
+    "base_pos": "NUM",
+    "afixos": "co",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

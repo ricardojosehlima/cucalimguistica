@@ -1,0 +1,46 @@
+{
+  "day": 311,
+  "date": "2027-06-28",
+  "seed": 20261012,
+  "form": "relógio-demais",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 81,
+    "wildness_index": "médio",
+    "prefix_pressure": "subindo",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "ambígua",
+    "category_instability": "moderada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Permita que uma base lexical atravesse a outra sem passaporte.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Permita que o desvio permaneça apresentável."
+  ],
+  "explanation": "relógio-demais cria uma vizinhança lexical em que a relação interna permanece suspeita. O resultado ainda é interpretável, mas sua lógica interna já aparece tensionada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "relógio",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "relógio",
+    "componente_1_pos": "N",
+    "componente_2": "demais",
+    "componente_2_pos": "ADV",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

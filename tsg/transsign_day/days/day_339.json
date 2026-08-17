@@ -1,0 +1,47 @@
+{
+  "day": 339,
+  "date": "2027-07-26",
+  "seed": 20261040,
+  "form": "ex-bilhão",
+  "classification": "animal",
+  "classification_score": 80,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 48,
+    "wildness_index": "alto",
+    "prefix_pressure": "acumulada",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "A produção pode apresentar comportamento lexical não domesticado."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "ex-bilhão transforma a borda da palavra em zona de intervenção. O resultado mantém o sentido disponível enquanto torna a construção inquieta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "bilhão",
+    "base_pos": "NUM",
+    "afixos": "ex-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

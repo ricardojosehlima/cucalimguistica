@@ -1,0 +1,46 @@
+{
+  "day": 86,
+  "date": "2026-11-15",
+  "seed": 20260787,
+  "form": "percorre-valete",
+  "classification": "instável",
+  "classification_score": 50,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 76,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "instável",
+    "category_instability": "em negociação",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora crie um desvio que ainda consiga cumprimentar a gramática.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "percorre-valete faz a composição parecer regra, mas com documentação incompleta. A forma mantém alguma disciplina, embora a estrutura esteja claramente forçada. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "percorrer",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "percorrer",
+    "componente_1_pos": "V",
+    "componente_2": "valete",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

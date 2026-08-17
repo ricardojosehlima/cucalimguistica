@@ -1,0 +1,46 @@
+{
+  "day": 155,
+  "date": "2027-01-23",
+  "seed": 20260856,
+  "form": "fotoceder",
+  "classification": "instável",
+  "classification_score": 53,
+  "mode": "controlled",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 32,
+    "wildness_index": "médio",
+    "prefix_pressure": "compressiva",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "instável",
+    "category_instability": "fora da classe",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "O contato entre base e afixo deve permanecer suspeito."
+  ],
+  "event_lines": [
+    "Faça um afixo insistir até a palavra ceder.",
+    "Agora faça o comum parecer suspeito.",
+    "Conserve apenas o suficiente para parecer palavra."
+  ],
+  "explanation": "fotoceder usa a base como superfície de contato para uma torção morfológica. A palavra não colapsa, mas também não se comporta. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "ceder",
+    "base_pos": "V",
+    "afixos": "foto",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

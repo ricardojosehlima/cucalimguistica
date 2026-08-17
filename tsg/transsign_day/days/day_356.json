@@ -1,0 +1,47 @@
+{
+  "day": 356,
+  "date": "2027-08-12",
+  "seed": 20261057,
+  "form": "magistério-de-quer",
+  "classification": "sopa certificada",
+  "classification_score": 83,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 81,
+    "wildness_index": "feral",
+    "prefix_pressure": "em surto",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "nebulosa",
+    "category_instability": "mal registrada",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Há possibilidade de acoplamento lexical repentino.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Aproxime duas palavras e não explique completamente a relação.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Repita até a palavra começar a olhar de volta."
+  ],
+  "explanation": "magistério-de-quer cria uma vizinhança lexical em que a relação interna permanece suspeita. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "magistério",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "magistério",
+    "componente_1_pos": "N",
+    "componente_2": "quer",
+    "componente_2_pos": "CONJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

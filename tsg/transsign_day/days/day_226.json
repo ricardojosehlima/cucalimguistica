@@ -1,0 +1,49 @@
+{
+  "day": 226,
+  "date": "2027-04-04",
+  "seed": 20260927,
+  "form": "psiuzódromoódromo",
+  "classification": "sopa certificada",
+  "classification_score": 100,
+  "mode": "lexical_baroque",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 25,
+    "wildness_index": "barroco",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "catastrófica",
+    "semantic_humidity": "úmida",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "Verbos podem tentar se substantivar sem autorização.",
+    "Sentidos secundários podem surgir sem aviso prévio.",
+    "Resíduos derivacionais podem se acumular nas bordas.",
+    "O índice de solenidade lexical deve permanecer artificialmente alto."
+  ],
+  "event_lines": [
+    "Comece quase normalmente; depois toque na morfologia.",
+    "Agora aumente a instabilidade.",
+    "Se o sentido resistir, acrescente clima."
+  ],
+  "explanation": "psiuzódromoódromo preserva algo reconhecível enquanto desloca a forma para fora do comum. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_categorial, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "psiu",
+    "base_pos": "INTJ",
+    "afixos": "ódromo,ódromo",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "repetition_only",
+    "transgressões": "transgressão_categorial,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}

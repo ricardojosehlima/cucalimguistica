@@ -1,0 +1,46 @@
+{
+  "day": 138,
+  "date": "2027-01-06",
+  "seed": 20260839,
+  "form": "definição-alinhado",
+  "classification": "suspeito",
+  "classification_score": 36,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 62,
+    "wildness_index": "médio",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "levemente úmida",
+    "category_instability": "contida",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Compostos devem se formar em áreas de baixa fiscalização morfológica."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "definição-alinhado junta partes que cooperam apenas o suficiente para produzir uma forma. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "definição",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "definição",
+    "componente_1_pos": "N",
+    "componente_2": "alinhado",
+    "componente_2_pos": "ADJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

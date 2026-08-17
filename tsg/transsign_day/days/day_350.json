@@ -1,0 +1,47 @@
+{
+  "day": 350,
+  "date": "2027-08-06",
+  "seed": 20261051,
+  "form": "ambozão",
+  "classification": "animal",
+  "classification_score": 76,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 57,
+    "wildness_index": "alto",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "mal comportada",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "severa",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "ambozão mostra o que acontece quando a afixação insiste um pouco demais. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "ambos",
+    "base_pos": "PRON",
+    "afixos": "ão",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N,ADJ",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

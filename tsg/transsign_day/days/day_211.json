@@ -1,0 +1,47 @@
+{
+  "day": 211,
+  "date": "2027-03-20",
+  "seed": 20260912,
+  "form": "ordenarimente",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 8,
+    "wildness_index": "baixo",
+    "prefix_pressure": "administrável",
+    "suffix_turbulence": "ligeiramente torta",
+    "semantic_humidity": "clara",
+    "category_instability": "severa",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Violação de categoria prevista antes do meio-dia.",
+    "Sufixos podem aparecer onde a base ainda não se preparou."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "ordenarimente mostra o que acontece quando a afixação insiste um pouco demais. O resultado parece aceitável até alguém olhar por tempo demais. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "ordenar",
+    "base_pos": "V",
+    "afixos": "mente",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADV",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

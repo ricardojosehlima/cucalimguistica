@@ -1,0 +1,48 @@
+{
+  "day": 5,
+  "date": "2026-08-26",
+  "seed": 20260706,
+  "form": "anteaçúcar",
+  "classification": "instável",
+  "classification_score": 45,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 6,
+    "wildness_index": "médio",
+    "prefix_pressure": "em expansão",
+    "suffix_turbulence": "localizada",
+    "semantic_humidity": "úmida",
+    "category_instability": "em fuga categorial",
+    "orthographic_visibility": "levemente instável",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A estabilidade classificatória deve permanecer abaixo do esperado.",
+    "A umidade semântica pode fazer sentidos grudarem onde não deveriam.",
+    "A pressão afixal permanece ativa ao redor da base."
+  ],
+  "event_lines": [
+    "Deixe os afixos se aproximarem sem pedir licença.",
+    "Agora faça o comum parecer suspeito.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "anteaçúcar usa a base como superfície de contato para uma torção morfológica. A instabilidade é baixa, embora a palavra não deva ser deixada sem observação. Pontos de pressão detectados: transgressão_categorial, transgressão_de_ordenamento. Hoje, a forma está classificada como instável.",
+  "source_event": {
+    "base": "açúcar",
+    "base_pos": "N",
+    "afixos": "ante",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "ADJ,N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "ordering_only",
+    "transgressões": "transgressão_categorial,transgressão_de_ordenamento",
+    "generation_attempt": 1
+  }
+}

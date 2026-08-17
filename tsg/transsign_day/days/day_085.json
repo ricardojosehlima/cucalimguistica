@@ -1,0 +1,46 @@
+{
+  "day": 85,
+  "date": "2026-11-14",
+  "seed": 20260786,
+  "form": "claudicarilândia",
+  "classification": "suspeito",
+  "classification_score": 33,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 6,
+    "wildness_index": "baixo",
+    "prefix_pressure": "quase comportada",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "pouco suspeita",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "baixa",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A zona final da palavra exige atenção morfológica."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora mantenha a forma legível, mas não inocente.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "claudicarilândia trata a derivação como ritual instável, não como regra pacífica. A palavra mantém aparência de normalidade, mas a superfície já treme. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "claudicar",
+    "base_pos": "V",
+    "afixos": "lândia",
+    "tipos_afixo": "sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

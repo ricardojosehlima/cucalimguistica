@@ -1,0 +1,46 @@
+{
+  "day": 110,
+  "date": "2026-12-09",
+  "seed": 20260811,
+  "form": "recém-campeão",
+  "classification": "suspeito",
+  "classification_score": 37,
+  "mode": "mild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 7,
+    "wildness_index": "médio",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "administrável",
+    "semantic_humidity": "clara",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "Resíduos derivacionais podem se acumular nas bordas."
+  ],
+  "event_lines": [
+    "Empurre a forma por prefixos, sufixos ou ambos.",
+    "Agora permita que a forma oscile.",
+    "Dê ao signo uma aparência de normalidade provisória."
+  ],
+  "explanation": "recém-campeão nasce de uma pressão afixal e deixa a base absorver a perturbação. O desvio é discreto e por isso mesmo mais perigoso. Pontos de pressão detectados: transgressão_categorial. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "campeão",
+    "base_pos": "N",
+    "afixos": "recém-",
+    "tipos_afixo": "prefixo",
+    "resultado_pos": "MESMA_POS",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "none",
+    "transgressões": "transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

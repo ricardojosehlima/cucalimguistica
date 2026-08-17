@@ -1,0 +1,47 @@
+{
+  "day": 236,
+  "date": "2027-04-14",
+  "seed": 20260937,
+  "form": "resolve-nove",
+  "classification": "animal",
+  "classification_score": 73,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 83,
+    "wildness_index": "alto",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "alta",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora transforme a regra em clima.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "resolve-nove cria uma vizinhança lexical em que a relação interna permanece suspeita. O signo já exige cuidado, pois a estabilidade não está garantida. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "resolver",
+    "base_pos": "V",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "V-X",
+    "componente_1": "resolver",
+    "componente_1_pos": "V",
+    "componente_2": "nove",
+    "componente_2_pos": "NUM",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

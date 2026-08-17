@@ -1,0 +1,48 @@
+{
+  "day": 206,
+  "date": "2027-03-15",
+  "seed": 20260907,
+  "form": "ósmio-quer",
+  "classification": "sopa certificada",
+  "classification_score": 92,
+  "mode": "lexical_baroque",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 72,
+    "wildness_index": "barroco",
+    "prefix_pressure": "instável",
+    "suffix_turbulence": "feral",
+    "semantic_humidity": "com cheiro de metáfora",
+    "category_instability": "em deslocamento",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "barroca"
+  },
+  "forecast_lines": [
+    "A justaposição tende a aumentar durante a tarde.",
+    "Matéria com aparência técnica pode condensar em elegância desnecessária.",
+    "A palavra deve ser manuseada com pinça teórica."
+  ],
+  "event_lines": [
+    "Deixe a composição fingir que foi convidada.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Continue até a morfologia perder a compostura."
+  ],
+  "explanation": "ósmio-quer cria uma vizinhança lexical em que a relação interna permanece suspeita. A forma parece técnica, mas sua autoridade é linguisticamente suspeita. Pontos de pressão detectados: transgressão_por_composição, transgressão_categorial. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "ósmio",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "ósmio",
+    "componente_1_pos": "N",
+    "componente_2": "quer",
+    "componente_2_pos": "CONJ",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição,transgressão_categorial",
+    "generation_attempt": 1
+  }
+}

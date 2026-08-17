@@ -1,0 +1,46 @@
+{
+  "day": 282,
+  "date": "2027-05-30",
+  "seed": 20260983,
+  "form": "instabilidade-de-contagem",
+  "classification": "animal",
+  "classification_score": 64,
+  "mode": "controlled",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 78,
+    "wildness_index": "alto",
+    "prefix_pressure": "ligeiramente abusada",
+    "suffix_turbulence": "repetitiva",
+    "semantic_humidity": "com névoa conceitual",
+    "category_instability": "em negociação",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Relações internas entre palavras podem ficar mal explicadas."
+  ],
+  "event_lines": [
+    "Primeiro, deixe dois corpos lexicais dividirem o mesmo quarto.",
+    "Agora permita que a forma oscile.",
+    "Deixe o resultado legível, mas não inocente."
+  ],
+  "explanation": "instabilidade-de-contagem se comporta como um composto que esqueceu de justificar a relação entre suas partes. A instabilidade foi dosada, mas não escondida. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "instabilidade",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "instabilidade",
+    "componente_1_pos": "N",
+    "componente_2": "contagem",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

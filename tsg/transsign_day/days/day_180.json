@@ -1,0 +1,47 @@
+{
+  "day": 180,
+  "date": "2027-02-17",
+  "seed": 20260881,
+  "form": "escrito-de-hidrogênio",
+  "classification": "animal",
+  "classification_score": 79,
+  "mode": "wild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 86,
+    "wildness_index": "alto",
+    "prefix_pressure": "sem licença",
+    "suffix_turbulence": "instável",
+    "semantic_humidity": "ambígua",
+    "category_instability": "desobediente",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "densa"
+  },
+  "forecast_lines": [
+    "Fronteiras entre classes podem ficar instáveis ao longo do dia.",
+    "A pressão composicional permanece ativa nas fronteiras lexicais."
+  ],
+  "event_lines": [
+    "Faça uma palavra hospedar outra e observe o desconforto.",
+    "Agora deixe a palavra agir como se tivesse imunidade poética.",
+    "Mantenha a instabilidade sob vidro."
+  ],
+  "explanation": "escrito-de-hidrogênio aproxima dois elementos lexicais e deixa a interpretação fazer trabalho extra. Há inteligibilidade, mas ela trabalha sob pressão. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como animal.",
+  "source_event": {
+    "base": "escrito",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-de-X",
+    "componente_1": "escrito",
+    "componente_1_pos": "N",
+    "componente_2": "hidrogênio",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

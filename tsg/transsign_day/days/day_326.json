@@ -1,0 +1,46 @@
+{
+  "day": 326,
+  "date": "2027-07-13",
+  "seed": 20261027,
+  "form": "celebração-saco",
+  "classification": "suspeito",
+  "classification_score": 30,
+  "mode": "mild",
+  "operation_family": "compound",
+  "weather": {
+    "compound_pressure": 64,
+    "wildness_index": "baixo",
+    "prefix_pressure": "baixa",
+    "suffix_turbulence": "discreta",
+    "semantic_humidity": "clara",
+    "category_instability": "quieta",
+    "orthographic_visibility": "segmentada",
+    "lexical_pressure": "visível"
+  },
+  "forecast_lines": [
+    "A justaposição tende a aumentar durante a tarde."
+  ],
+  "event_lines": [
+    "Comece pelo contato: uma palavra encosta na outra.",
+    "Agora insira uma pequena desobediência no léxico.",
+    "Pare antes que a forma fuja completamente."
+  ],
+  "explanation": "celebração-saco encena um contato entre materiais lexicais que não estavam esperando um pelo outro. O resultado permanece perto o bastante da formação comum para parecer quase inocente. Pontos de pressão detectados: transgressão_por_composição. Hoje, a forma está classificada como suspeito.",
+  "source_event": {
+    "base": "celebração",
+    "base_pos": "N",
+    "afixos": "",
+    "tipos_afixo": "",
+    "resultado_pos": "N",
+    "subtipo_composição": "N-X",
+    "componente_1": "celebração",
+    "componente_1_pos": "N",
+    "componente_2": "saco",
+    "componente_2_pos": "N",
+    "compatibilidade_pos": "not_applicable",
+    "compatibilidade_semântica": "not_evaluated",
+    "structural_profile": "none",
+    "transgressões": "transgressão_por_composição",
+    "generation_attempt": 1
+  }
+}

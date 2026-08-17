@@ -1,0 +1,47 @@
+{
+  "day": 63,
+  "date": "2026-10-23",
+  "seed": 20260764,
+  "form": "quericeice",
+  "classification": "sopa certificada",
+  "classification_score": 88,
+  "mode": "wild",
+  "operation_family": "affixal",
+  "weather": {
+    "compound_pressure": 50,
+    "wildness_index": "feral",
+    "prefix_pressure": "excessiva",
+    "suffix_turbulence": "oficialmente suspeita",
+    "semantic_humidity": "ambígua",
+    "category_instability": "com risco de substantivação indevida",
+    "orthographic_visibility": "visível",
+    "lexical_pressure": "soposa"
+  },
+  "forecast_lines": [
+    "Prefixos devem avançar sobre a forma com confiança indevida.",
+    "Não tente estabilizar a forma sem supervisão morfológica."
+  ],
+  "event_lines": [
+    "Comece com uma base e aplique pressão nas bordas.",
+    "Agora deixe a disciplina semântica falhar educadamente.",
+    "Não estabilize. Seria falta de educação."
+  ],
+  "explanation": "quericeice transforma a borda da palavra em zona de intervenção. A construção avança para o excesso sem abandonar totalmente a interpretação. Pontos de pressão detectados: transgressão_categorial, transgressão_recursiva. Hoje, a forma está classificada como sopa certificada.",
+  "source_event": {
+    "base": "quer",
+    "base_pos": "CONJ",
+    "afixos": "ice,ice",
+    "tipos_afixo": "sufixo,sufixo",
+    "resultado_pos": "N",
+    "subtipo_composição": "",
+    "componente_1": "",
+    "componente_1_pos": "",
+    "componente_2": "",
+    "componente_2_pos": "",
+    "compatibilidade_pos": "violated",
+    "compatibilidade_semântica": "not_checked",
+    "structural_profile": "repetition_only",
+    "transgressões": "transgressão_categorial,transgressão_recursiva",
+    "generation_attempt": 1
+  }
+}
