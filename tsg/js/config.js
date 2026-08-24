@@ -1,5 +1,5 @@
 const TSG_CONFIG = {
-  mode: "preview", // "preview" or "live"
+  mode: "live", // "preview" or "live"
   launchDate: "2026-08-22",
   timeZone: "America/Sao_Paulo",
 
